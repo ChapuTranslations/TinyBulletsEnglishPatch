@@ -1,0 +1,607 @@
+0x4a8000|4|{f5}{DELAY:00}{COLOUR:WHITE}コントローラ{NL}振動　　　　　　　ＯＮ　ＯＦＦ{NL}サウンド　　　ステレオ　モノラル{NL}ＢＧＭ・ＶＯＬ　　　{DIGITS:0003}{NL}ＳＥ・ＶＯＬ　　　　{DIGITS:0103}{NL}スクリーン{NL}閉じる{NL}{OPTIONS:c700}　{END}|{f5}{DELAY:00}{COLOUR:WHITE}CONTROLS{NL}RUMBLE   ON  OFF{NL}SOUND    STEREO  MONO{NL}BGM       {DIGITS:0003}{NL}SFX       {DIGITS:0103}{NL}SCREEN{NL}BACK{NL}{OPTIONS:c700}{END}
+||{DELAY:00}{COLOUR:WHITE}コントローラ{NL}振動　　　　　　　ＯＮ　ＯＦＦ{NL}サウンド　　　ステレオ　モノラル{NL}ＢＧＭ・ＶＯＬ　　　{DIGITS:0003}{NL}ＳＥ・ＶＯＬ　　　　{DIGITS:0103}{NL}スクリーン{NL}閉じる{NL}{OPTIONS:c780}ぢ{END}|{DELAY:00}{COLOUR:WHITE}CONTROLS{NL}RUMBLE   ON  OFF{NL}SOUND    STEREO  MONO{NL}BGM       {DIGITS:0003}{NL}SFX       {DIGITS:0103}{NL}SCREEN{NL}BACK{NL}{OPTIONS:c780}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　方向キーでスクリーンの調整を{NL}　行います。{NL}{COLOUR:YELLOW}　※{COLOUR:GREEN}△ボタン{COLOUR:YELLOW}でリセットできます。{NL}{COLOUR:WHITE}　　　　　　　閉じる{END}|{f5}{DELAY:00}{COLOUR:WHITE}Use {BUTTON:D} to move the screen.{NL}{COLOUR:YELLOW}*{BUTTON:TRIANGLE} to reset.{NL}{NL}{COLOUR:WHITE}       BACK{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}コントローラ{NL}閉じる{NL}{OPTIONS:c200}　{END}|{f5}{DELAY:00}{COLOUR:WHITE}CONTROLS{NL}BACK{NL}{OPTIONS:c200}{END}
+0x4a8120|49|{f5}{DELAY:00}{COLOUR:WHITE}ファイルを手に入れていません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}NO FILES{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}予言書{END}|{f5}{DELAY:00}{COLOUR:WHITE}PROPHECY BOOK{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}クイントの手紙{END}|{f5}{DELAY:00}{COLOUR:WHITE}QUINT'S LETTER{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『泉のかがやき』の楽譜{END}|{f5}{DELAY:00}{COLOUR:WHITE}"BRIGHT SPRING" SCORE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『命のきらめき』の楽譜{END}|{f5}{DELAY:00}{COLOUR:WHITE}"LIFE GLOW" SCORE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『黄金の光』の楽譜{END}|{f5}{DELAY:00}{COLOUR:WHITE}"GOLDEN LIGHT" SCORE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}計算問題{END}|{f5}{DELAY:00}{COLOUR:WHITE}EQUATION{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}塔案内{END}|{f5}{DELAY:00}{COLOUR:WHITE}TOWER GUIDE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}魔獣のメモ{END}|{f5}{DELAY:00}{COLOUR:WHITE}MONSTER NOTE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}不死身の戦士のメモ{END}|{f5}{DELAY:00}{COLOUR:WHITE}UNDEAD MINION NOTE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}エネルギー中継所案内{END}|{f5}{DELAY:00}{COLOUR:WHITE}POWER PLANT GUIDE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}絵の具のメモ{END}|{f5}{DELAY:00}{COLOUR:WHITE}PAINT NOTE{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}魔法使いのメモ{END}|{f5}{DELAY:00}{COLOUR:WHITE}WIZARD NOTE{END}
+||{END}|{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}　　ボーズへ{NL}{NL}　　グディアのいる悪魔の塔は、{NL}　　地下牢獄の北にあるようだ。{NL}　　俺は溶岩洞窟を調べてみる{NL}　　つもりだ。{NL}　　早く俺に追いついて来い。{NL}{NL}　　　　　　　　　　　クイント{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}Kid,{NL}{NL}Gudia is at the Demon Tower{NL}north of the jail. I'll go to{NL}the lava cave. Come quick.{NL}{NL}Quint.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{NL}{NL}{NL}{NL}　　　　{PLANE}　{CHEVRON}　{SMILE}　{PLANE}　{CHEVRON}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{PLANE} {CHEVRON} {SMILE} {PLANE} {CHEVRON}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{NL}{NL}{NL}{NL}　　　　{PLANE}　{SMILE}　{IDK}　{CHEVRON}　{ARROWDOWN}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{PLANE} {SMILE} {IDK} {CHEVRON} {ARROWDOWN}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{NL}{NL}{NL}{NL}　　　　{IDK}　{CHEVRON}　{ARROWDOWN}　{SMILE}　{PLANE}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{IDK} {CHEVRON} {ARROWDOWN} {SMILE} {PLANE}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　　　　　　▽＋◇＝Ｏ{NL}　　　　　　{HEXAGON}－▽＝？{NL}　　　　　　◇＋◇＝？{NL}　　　　　　Ｏ－{HEXAGON}＝？{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{DOWNTRIANGLE}+{DIAMOND}={CIRCLE}{NL}{HEXAGON}-{DOWNTRIANGLE}=?{NL}{DIAMOND}+{DIAMOND}=?{NL}{CIRCLE}-{HEXAGON}=?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}　　　　　　Ｆせ　を{NL}　　　　　　とおなＤあ{NL}　　　　か　てＥけにぞ{NL}　　　ゆＣはいあ　きＢせ{NL}　　　　うかＡ２　　の{NL}　　　　　　２{NL}{NL}　　Ａ→Ｂ→Ｃ→Ｄ→Ｅ→Ｆ{NL}　　南→東→西→北{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{COLOUR:RED}{CIRCLE}{COLOUR:WHITE}styer{NL}ea{COLOUR:GREEN}{TRIANGLE}{COLOUR:WHITE}uhy{NL}pdta{COLOUR:CYAN}{HEXAGON}{COLOUR:WHITE}o{NL}r{COLOUR:BLUE}{CROSS}{COLOUR:WHITE}peba{NL}tow{COLOUR:PINK}{SQUARE}{COLOUR:WHITE}tm{NL}{COLOUR:YELLOW}{DIAMOND}{COLOUR:WHITE}hzib{COLOUR:GREY}{DOWNTRIANGLE}{NL}{NL}{COLOUR:BLUE}{CROSS}{COLOUR:WHITE}{RIGHT}{COLOUR:YELLOW}{DIAMOND}{COLOUR:WHITE}{RIGHT}{COLOUR:RED}{CIRCLE}{COLOUR:WHITE}{RIGHT}{COLOUR:GREEN}{TRIANGLE}{COLOUR:WHITE}{RIGHT}{COLOUR:PINK}{SQUARE}{COLOUR:WHITE}{RIGHT}{COLOUR:CYAN}{HEXAGON}{COLOUR:WHITE}{RIGHT}{COLOUR:GREY}{DOWNTRIANGLE}{COLOUR:WHITE}{NL}N{RIGHT}W{RIGHT}S{RIGHT}E{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}{NL}　　強大なる魔獣を打ち破る術は{NL}　　ただ一つ。{NL}{NL}　　その赤き胸をねらうべし。{NL}{NL}　　さもなくばおぞましき死が{NL}　　訪れるであろう。{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}Defeat the beast by aiming at{NL}its red chest, lest you meet a{NL}bloody end.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}　　暗黒の魔術にて復活せし{NL}　　不死身の戦士を打ち破る{NL}　　術はただ一つ。{NL}{NL}　　せいなる炎にて{NL}　　焼き払うべし。{NL}{NL}　　さもなくばおぞましき死が{NL}　　訪れるであろう。{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}Defeat the minion by burning{NL}her with holy fire, lest you{NL}meet a bloody end.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　　『エネルギー中継所案内』{NL}　　エネルギー中継所までは、{NL}　　地下水脈のトロッコを{NL}　　利用して下さい。{NL}{NL}　　エネルギー中継所にある{NL}　　エネルギー中継機は、大変{NL}　　頑丈にできていますが、{NL}　　一部もろい部分があり、{NL}　　この部分にはむやみに触れ{NL}　　ないようにして下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}Power Plant Guide{NL}Reach the plant via the cart{NL}running on the sewers.{NL}Plant equipment is sturdy, but{NL}has some weak spots.{NL}Be careful.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　黄色い絵の具と、赤い絵の具を{NL}　混ぜるとオレンジ色の{NL}　絵の具になる。{NL}{NL}　赤い絵の具と、青い絵の具を{NL}　混ぜるとむらさき色の{NL}　絵の具になる。{NL}{NL}　青い絵の具と、黄色い絵の具を{NL}　混ぜると緑色の{NL}　絵の具になる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}Yellow and red paint make orange{NL}paint.{NL}Red and blue paint make purple{NL}paint.{NL}Blue and yellow paint make green{NL}paint.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　けんをたずさえし{NL}　くろかみのおとめ{NL}　ふぶきのよるにいつつの{NL}　せいなるかねをうちならし{NL}　そのねをひびかせるなり{NL}{NL}　た下・ち上・け下・ひ右・ら上・{NL}　よ下・め下・ろ下・ち上・そ右・{NL}　と右・に下・く下・た下・ち上・{NL}　ん左・ぶ上{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}Three knights are headed to kill{NL}a beast. In their mind's eye the{NL}stomp of the beast goes:{NL}14 16 12 15 13 1 4 8{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}　　この本には、ゲーム攻略の{NL}　　ヒントが書いてあります。{NL}　　この本を読みますか？{NL}{NL}　　　　　　　はい{NL}　　　　　　　いいえ{NL}{OPTIONS:8280}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{NL}{NL}A hint book.{NL}Read it?{NL}{NL}{NL}        YES{NL}        NO{NL}{OPTIONS:8280}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『呪い山のふもと』{NL}{NL}・ボックスは、つみ上げて高い所へ{NL}　移動するための足場として利用{NL}　できる。{NL}{NL}・バーにつかまってスイングして{NL}　ジャンプした先に重要なアイテム{NL}　がある。{NL}{NL}・２つ目の大きなボックスを{NL}　東へ運べば、足場として{NL}　利用できる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Mt. Curse base{NL}{NL}·Stack boxes to climb higher.{NL}·Swing from the bar and jump to{NL} get a crucial item.{NL}·Move the second big box east to{NL} jump on it.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　『悪魔の遺跡』{NL}{NL}・ドラをパチンコで撃ち鳴らせ。{NL}{NL}・木の扉は、爆弾で破壊する{NL}　ことができる。{NL}{NL}・トランポリンを使えば、より高い{NL}　所へ移動することができる。{NL}{NL}・床にあるスイッチは、重いものを{NL}　のせると押すことができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Ruins{NL}{NL}·Hit the gong.{NL}·Wooden doors can be blown.{NL}·Use the trampoline to reach{NL} high places.{NL}·Use heavy things to press floor{NL} switches.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}・壺は、投げて割ることができる。{NL}{NL}・ライト台は、動かすことが{NL}　できる。{NL}{NL}・黒い柱に４つの石盤を正しい{NL}　順に、正しい組み合わせで{NL}　セットしろ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}·Throw the vase.{NL}·You can move the spotlight.{NL}·Place four tiles on the black{NL} pillar in the right order.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『洞窟の研究所』{NL}{NL}・２つのうんていをわたり、{NL}　東へ進め。{NL}{NL}・最も西にある部屋に重要な{NL}　アイテムがある。{NL}{NL}・全ての配電盤に電気を通せ。{NL}{NL}・２つある大きな顔の石像の目を{NL}　そろえよ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Cave Lab{NL}{NL}·Go east after the two monkey{NL} bars.{NL}·Find a crucial item far to the{NL} west.{NL}·Power up all the electrical{NL} panels.{NL}·Match the statues' eyes.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　　『地下牢獄』{NL}{NL}・最初の部屋に重要な{NL}　アイテムがある。{NL}{NL}・首を元あった場所にもどして、{NL}　南へ進め。{NL}{NL}・大きなボックスを使って、{NL}　上の段に移動して進め。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Sunken Jail{NL}{NL}·Explore the first room{NL} thoroughly.{NL}·Put the head in its place, then{NL} go south.{NL}·Use the big box to climb{NL} upwards.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　　『地下水脈』{NL}{NL}・３つ目の大きなふんどうの{NL}　横の通路の先に、重要な{NL}　アイテムがある。{NL}{NL}・燭台の炎にパチンコを{NL}　撃ち込め。{NL}{NL}・滝壺の近くに重要な{NL}　アイテムがある。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Sewers{NL}{NL}·Find a crucial item at the end{NL} of the hall by the third weight.{NL}·Shoot the torches.{NL}·Find a crucial item near the{NL} waterfall.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　　『トロッコ』{NL}{NL}・トロッコの行き先は４つある。{NL}{NL}・大きな絵のある部屋では、{NL}　絵の秘密を解け。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Minecart{NL}{NL}·The cart goes to four places.{NL}·Solve the mystery in the large{NL} mural room.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　　『溶岩洞窟』{NL}{NL}・３つ並んだ扉は、ブロックを{NL}　使って開けることができる。{NL}{NL}・３つ並んだ扉の内、左の扉の{NL}　先には重要なアイテムが{NL}　ある。{NL}{NL}・壊れたリフトは、破壊すること{NL}　ができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Lava Cave{NL}{NL}·Blocks can open the three lined{NL} doors.{NL}·Find a crucial item past the{NL} left door.{NL}·Broken cable cars can be shot{NL} down.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}・５つのブロックを使い、３つ{NL}　並んだ扉を全て開けろ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}·You need five blocks to open{NL} the three doors.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　　『悪魔の神殿』{NL}{NL}・スイッチを押すことで、溶岩の上{NL}　にかかる橋を回転させることが{NL}　できる。{NL}{NL}・最も北にある部屋の下には、{NL}　重要なアイテムがある。{NL}{NL}・６つの戦士の壁画の内、１つ{NL}　だけ引き抜くことのできるものが{NL}　ある。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Temple{NL}{NL}·A switch rotates the bridge{NL} over the lava.{NL}·Find a crucial item under the{NL} room at the far north.{NL}·Only one of the six warrior{NL} murals can be pulled out.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}・橋の上に乗せて回転させる{NL}　ことで、大きなブロックの向きを{NL}　変えることができる。{NL}{NL}・３つの大きなブロックを使い、{NL}　サーペントの壁画を{NL}　完成させろ。{NL}{NL}・シールドはあらゆる攻撃を{NL}　防ぐことができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}·Use the bridge to rotate big{NL} blocks.{NL}·Complete the snake mural using{NL} three big blocks.{NL}·The shield blocks all attacks.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}・パイプオルガンは、鍵盤を{NL}　踏むことでえんそうすることが{NL}　できる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}·Play the pipe organ.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　『悪魔の塔　地下１階』{NL}{NL}・ゴミ置き場には、重要な{NL}　アイテムがある。{NL}{NL}・ベルトコンベアーで運ばれてくる{NL}　スプリングを使えば、より高い所{NL}　へ移動することができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower B1{NL}{NL}·Look carefully in the dump.{NL}·Use the conveyor belt springs{NL} to jump higher.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　１階』{NL}{NL}・動力ろのスイッチを入れること{NL}　で、まわりにある足場を動かす{NL}　ことができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 1F{NL}{NL}·Turn on the platforms.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　２階』{NL}{NL}・西にある部屋の機械で、{NL}　エレベーターを利用するための{NL}　許可をうけることができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 2F{NL}{NL}·Get a code for the lift from{NL} the machine in the west room.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　３階』{NL}{NL}・黄色い扉の手前の床のスイッチを{NL}　踏みつけろ。{NL}{NL}・赤い扉と青い扉は、てんじょうに{NL}　描かれているしじに従えば{NL}　開けることができる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 3F{NL}{NL}·Press the floor switch in front{NL} of the yellow door.{NL}·Look at the ceiling to open the{NL} red and blue doors.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　４階』{NL}{NL}・１階から４階のおどり場に{NL}　描かれた図形が、危機を回避する{NL}　ための鍵となる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 4F{NL}{NL}·The shapes on the four landings{NL} are key to averting the crisis.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　１１階』{NL}{NL}・見えざるブロックは、触れたり{NL}　攻撃をくわえることで、{NL}　その姿を見ることが{NL}　できるようになる。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 11F{NL}{NL}·Reveal invisible blocks by{NL} hitting them.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　２２階』{NL}{NL}・石の怪物は落として倒せ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 22F{NL}{NL}·Make the stone monster fall to{NL} defeat it.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　３３階』{NL}{NL}・大きな部屋の西側の壁のくぼみ{NL}　には、重要なアイテムが{NL}　ある。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 33F{NL}{NL}·Find a crucial item in the west{NL} wall of the big room.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　４４階』{NL}{NL}・塗り固められた壁を、強力爆薬で{NL}　破壊せよ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 44F{NL}{NL}·Use a big blast to destroy hard{NL} walls.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}　　　『悪魔の塔　屋上』{NL}{NL}・おのれを信じ、悪魔を倒せ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower Top{NL}{NL}·Believe in yourself.{END}
+0x4a8ecc|6|{f5}{DELAY:00}{COLOUR:WHITE}『ジャンプ』　　　　　　{BUTTON:X}{NL}{NL}『歩く』　{BUTTON:SQUARE}＋{COLOUR:CYAN}方向キー↑{NL}{COLOUR:YELLOW}※歩いている時は、自動的にガケ{NL}　から先には移動しなくなります。{NL}{NL}{COLOUR:WHITE}『カニ歩き』{NL}　　　{BUTTON:L1}＋{COLOUR:CYAN}方向キー←{COLOUR:WHITE}・{COLOUR:CYAN}→{NL}{NL}{COLOUR:WHITE}『１８０度反転』　　　{BUTTON:R1}{NL}{COLOUR:YELLOW}※バーなどにつかまっている時も、{NL}　１８０度反転をすることができ{NL}　ます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}JUMP {BUTTON:X}{NL}{NL}WALK {BUTTON:SQUARE}+{BUTTON:D}{COLOUR:CYAN} {UP}{NL}{COLOUR:YELLOW}*Walking stops you just before{NL}edges.{NL}{NL}{COLOUR:WHITE}STRAFE {BUTTON:L1}+{BUTTON:D}{COLOUR:CYAN} {LEFT}{COLOUR:WHITE}/{COLOUR:CYAN}{RIGHT}{NL}{NL}{COLOUR:WHITE}TURN 180° {BUTTON:R1}{NL}{COLOUR:YELLOW}*You can also turn when holding{NL}to bars.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『つかまる』　　　　　　{BUTTON:CIRCLE}{NL}{NL}『落下つかまり』{NL}　　　　　　{BUTTON:CIRCLE}を押しながら{NL}　　　　　　ガケから落ちる{NL}{COLOUR:YELLOW}※体の向きに関係なく、落下直後に{NL}　自動的にガケのふちにつかまり{NL}　ます。{NL}{NL}{COLOUR:WHITE}『スイング』{NL}　バーにつかまって{COLOUR:CYAN}方向キー↑{COLOUR:WHITE}・{COLOUR:CYAN}↓{NL}{COLOUR:YELLOW}※スイング中に{BUTTON:CIRCLE}をはなすと{NL}　ジャンプをします。{END}|{f5}{DELAY:00}{COLOUR:WHITE}HANG {BUTTON:CIRCLE}{NL}{NL}FALL AND HANG{NL}Walk off an edge while holding {BUTTON:CIRCLE}{NL}{COLOUR:YELLOW}*Works even if you fall forward.{NL}{NL}{COLOUR:WHITE}SWING{NL}Hold on to a bar and press{NL}{BUTTON:D}{COLOUR:CYAN} {UP}{COLOUR:WHITE}/{COLOUR:CYAN}{DOWN}{NL}{COLOUR:YELLOW}*Release {BUTTON:CIRCLE} during swing to jump.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『しゃがむ』　　　　　　{BUTTON:TRIANGLE}{NL}{NL}『前転・後転』{NL}　　　　{BUTTON:TRIANGLE}＋{COLOUR:CYAN}方向キー↑{COLOUR:WHITE}・{COLOUR:CYAN}↓{NL}{NL}{COLOUR:WHITE}『踏みつけ』{NL}　　　　　　　　　空中で{BUTTON:TRIANGLE}{NL}{COLOUR:YELLOW}※高い所から落下した時に踏みつけ{NL}　で着地すると、ダメージをうけ{NL}　なくなります。{NL}　また、一部のモンスターを踏み{NL}　つけで攻撃することもできます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}CROUCH {BUTTON:TRIANGLE}{NL}{NL}ROLL {BUTTON:TRIANGLE}+{BUTTON:D}{COLOUR:CYAN} {UP}{COLOUR:WHITE}/{COLOUR:CYAN}{DOWN}{NL}{NL}{COLOUR:WHITE}STOMP{NL}Press {BUTTON:TRIANGLE} in mid-air.{NL}{COLOUR:YELLOW}*Stomping prevents damage when{NL}falling from a big height.{NL}*Stomping damages some enemies.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『パチンコを撃つ』{NL}　　　　　　{BUTTON:R2}＋{BUTTON:CIRCLE}{NL}{COLOUR:YELLOW}※モンスターが近くにいる時に{NL}　{BUTTON:R2}を押すと、自動的に{NL}　モンスターのいる方に向かって{NL}　パチンコをかまえます。{NL}{NL}{COLOUR:WHITE}『パチンコの弾をきりかえる』{NL}　　　　　　{BUTTON:R2}＋{BUTTON:X}{NL}{NL}『見回しながらパチンコを撃つ』{NL}{BUTTON:L2}＋{BUTTON:R2}＋{BUTTON:CIRCLE}{END}|{f5}{DELAY:00}{COLOUR:WHITE}SLINGSHOT {BUTTON:R2}+{BUTTON:CIRCLE}{NL}{COLOUR:YELLOW}*If near an enemy, {BUTTON:R2} auto-aims{NL}at it.{NL}{NL}{COLOUR:WHITE}CHANGE AMMO {BUTTON:R2}+{BUTTON:X}{NL}{NL}LOOK AND SHOOT {BUTTON:L2}+{BUTTON:R2}+{BUTTON:CIRCLE}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『小さな物を拾う・持つ』{NL}　　　　小さな物の近くで{BUTTON:CIRCLE}{NL}{NL}『小さな物を投げる』{NL}　　　　　　{BUTTON:R2}＋{BUTTON:CIRCLE}{NL}{COLOUR:YELLOW}※モンスターが近くにいる時に{NL}　{BUTTON:R2}を押すと、自動的に{NL}　モンスターのいる方に向かって{NL}　物を投げる体勢になります。{NL}{NL}{COLOUR:WHITE}『大きな物を押す・引く』{NL}　　　　大きな物にくっついて{NL}　　　　{BUTTON:CIRCLE}＋{COLOUR:CYAN}方向キー↑{COLOUR:WHITE}・{COLOUR:CYAN}↓{END}|{f5}{DELAY:00}{COLOUR:WHITE}PICK UP{NL}{BUTTON:CIRCLE} next to small objects.{NL}{NL}THROW {BUTTON:R2}+{BUTTON:CIRCLE}{NL}{COLOUR:YELLOW}*If near an enemy, {BUTTON:R2} auto-aims{NL}at it.{NL}{NL}{COLOUR:WHITE}PUSH/PULL{NL}{BUTTON:CIRCLE}+{BUTTON:D}{COLOUR:CYAN} {UP}{COLOUR:WHITE}/{COLOUR:CYAN}{DOWN}{COLOUR:WHITE} next to big objects.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}『あたりを見回す』{NL}　　　　　　{BUTTON:L2}＋{COLOUR:CYAN}方向キー{NL}{NL}{COLOUR:WHITE}『カメラモードをきりかえる』{NL}　　　　　　{BUTTON:L2}＋{BUTTON:TRIANGLE}{NL}{COLOUR:YELLOW}※カメラモードには、ついびモード{NL}　と、マップモードの２しゅるいが{NL}　あります。{NL}{NL}{COLOUR:WHITE}『メッセージを送る』{NL}{COLOUR:RED}　Ｏボタン{COLOUR:WHITE}・{COLOUR:BLUE}Ｘボタン{COLOUR:WHITE}・{COLOUR:GREEN}△ボタン{COLOUR:WHITE}・{NL}{COLOUR:PINK}　□ボタン{COLOUR:WHITE}・{COLOUR:CYAN}方向キー↓{END}|{f5}{DELAY:00}{COLOUR:WHITE}LOOK {BUTTON:L2}+{BUTTON:D}{NL}{NL}{COLOUR:WHITE}SWITCH CAMERA {BUTTON:L2}+{BUTTON:TRIANGLE}{NL}{COLOUR:YELLOW}*Modes are follow from behind{NL}or fixed.{NL}{NL}{COLOUR:WHITE}SEND MESSAGE{NL}{BUTTON:CIRCLE}·{BUTTON:X}·{BUTTON:TRIANGLE}·{BUTTON:SQUARE}·{BUTTON:D}{COLOUR:CYAN} {DOWN}{END}
+0x4ae944|48|{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}　　　　　セーブ{NL}　　　　　ロード{NL}　　　　　データの整理{NL}　　　　　閉じる{NL}{OPTIONS:c400}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}    SAVE{NL}    LOAD{NL}    MANAGE DATA{NL}    EXIT{NL}{OPTIONS:c400}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どのように整理しますか？{NL}{DELAY:00}　　　　　コピー{NL}　　　　　全てコピー{NL}　　　　　消す{NL}{OPTIONS:c300}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Do what?{NL}{DELAY:00}    COPY{NL}    COPY ALL{NL}    ERASE{NL}{OPTIONS:c300}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}セーブしてよろしいですか？{NL}{DELAY:00}{NL}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Save?{NL}{DELAY:00}{NL}      YES{NL}      NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データをセーブしています…{NL}メモリーカードを抜かないで{NL}下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Saving, do not remove the{NL}memory card{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データを上書きしてよろしい{NL}ですか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Overwrite?{NL}{NL}{DELAY:00}      YES{NL}      NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}セーブに失敗しました。{NL}もう一度セーブしますか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Save failed.{NL}Retry?{NL}{DELAY:00}    YES{NL}    NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}メモリーカードに空きブロックが{NL}足りません。　データの整理を{NL}するか、他のメモリーカードを{NL}さしこんで下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Not enough free blocks. Erase{NL}data or insert another memory{NL}card.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このデータをロードしてよろしい{NL}ですか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:c280}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Load?{NL}{NL}{DELAY:00}      YES{NL}      NO{NL}{OPTIONS:c280}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データをロードしています…{NL}メモリーカードを抜かないで{NL}下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Loading, do not remove the{NL}memory card{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}ロードに失敗しました。{NL}もう一度ロードしますか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Load failed.{NL}Retry?{NL}{DELAY:00}    YES{NL}    NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}タイニーバレットのデータが{NL}ありません。{NL}{END}|{f5}{DELAY:00}{COLOUR:WHITE}No "Tiny Bullets" data found.{NL}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このデータをコピーしてよろしい{NL}ですか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy?{NL}{NL}{DELAY:00}      YES{NL}      NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データをコピーしています…{NL}メモリーカードを抜かないで{NL}下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copying, do not remove the{NL}memory card{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}全てのデータをコピーしてよろしい{NL}ですか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy all?{NL}{NL}{DELAY:00}      YES{NL}      NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データをコピーしています…{NL}メモリーカードを抜かないで{NL}下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copying, do not remove the{NL}memory card{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このデータを消してよろしい{NL}ですか？{NL}{DELAY:00}　　　　　　はい{NL}　　　　　　いいえ{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Erase?{NL}{NL}{DELAY:00}      YES{NL}      NO{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データを消しています…{NL}メモリーカードを抜かないで{NL}下さい。{f6:3c}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Erasing, do not remove the{NL}memory card{ELLIPSIS}{f6:3c}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}スロット{DIGITS:0001}のメモリーカードは{NL}フォーマットされていません。{NL}{DELAY:00}　　　フォーマットする{NL}　　　フォーマットしない{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Memory card in slot {DIGITS:0001} is not{NL}formatted.{NL}{DELAY:00}    FORMAT{NL}    CANCEL{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}メモリーカードをフォーマット{NL}しています…{NL}メモリーカードを抜かないで{NL}下さい。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Formatting, do not remove the{NL}memory card{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}スロット{DIGITS:0001}のメモリーカードの{NL}フォーマットに失敗しました。{NL}{DELAY:00}　　もう一度フォーマットする{NL}　　フォーマットしない{NL}{OPTIONS:e200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Formatting of memory card in{NL}slot {DIGITS:0001} failed.{NL}{DELAY:00}    RETRY{NL}    CANCEL{NL}{OPTIONS:e200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}スロット{DIGITS:0001}のメモリーカードを{NL}調べています。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Reading memory card in slot {DIGITS:0001}{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}メモリーカードがさしこまれて{NL}いません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}No memory card found.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このメモリーカードは{NL}壊れています。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Memory card is corrupted.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どこにセーブしますか？{END}|{f5}{DELAY:00}{COLOUR:WHITE}Save where?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どのデータをロードしますか？{END}|{f5}{DELAY:00}{COLOUR:WHITE}Load which file?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どのデータをコピーしますか？{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy which file?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}全てのデータをコピーします。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy all.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どのデータを消しますか？{END}|{f5}{DELAY:00}{COLOUR:WHITE}Erase which data?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このデータはタイニーバレットの{NL}データではありません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}This is not a "Tiny Bullets"{NL}file.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データがありません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}No files.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}　　　　　セーブ{NL}　　　　　データの整理{NL}　　　　　閉じる{NL}{OPTIONS:c300}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}    SAVE{NL}    MANAGE DATA{NL}    EXIT{NL}{OPTIONS:c300}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}　　　　　ロード{NL}　　　　　データの整理{NL}　　　　　閉じる{NL}{OPTIONS:c300}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{DELAY:00}    LOAD{NL}    MANAGE DATA{NL}    EXIT{NL}{OPTIONS:c300}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}スロットをせんたくして下さい。{NL}{DELAY:00}　　　　　スロット１{NL}　　　　　スロット２{NL}{OPTIONS:c200}{END}|{f5}{DELAY:00}{COLOUR:WHITE}Select a slot.{NL}{DELAY:00}    SLOT 1{NL}    SLOT 2{NL}{OPTIONS:c200}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}同じ名前のデータがあるので{NL}コピーできません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}File with same name found,{NL}cannot copy.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}このデータは壊れています。{END}|{f5}{DELAY:00}{COLOUR:WHITE}File is corrupted.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}セーブに失敗しました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Save failed.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}ロードに失敗しました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Load failed.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}コピーに失敗しました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy failed.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}セーブが終わりました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Save complete.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}ロードが終わりました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Load complete.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}消すのに失敗しました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Erase failed.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}フォーマットに失敗しました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Formatting failed.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}コピー先にメモリーカードが{NL}さしこまれていません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Destination memory card not{NL}found.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}コピーが終わりました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy complete.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}コピーが終わりました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Copy complete.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}消し終わりました。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Erase complete.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}実行中のアプリケーションです。{END}|{f5}{DELAY:00}{COLOUR:WHITE}Operation pending.{END}
+0x173abc|8|{ITEM:ff}を、{NL}手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}中に命の水を入れて持ち運ぶ{NL}ことができるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use it to store life water.{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}パチンコのタマに使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}セレクトボタンで見てみよう。{BP}{END}|Found {ITEM:ff}!{NL}Press Select to view it.{BP}{END}
+||{COLOUR:BLUE}悪魔の塔地下１階〜４階の地図{COLOUR:WHITE}を、{NL}手に入れた！{NL}セレクトボタンで見てみよう。{BP}{END}|{COLOUR:BLUE}Map of Demon Tower B1~B4{COLOUR:WHITE} found!{NL}Press Select to view it.{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}セレクトボタンで見てみよう。{BP}{END}|Found {ITEM:ff}!{NL}Press Select to view it.{BP}{END}
+||{COLOUR:BLUE}悪魔の塔　４４階と、屋上の{NL}地図{COLOUR:WHITE}を、手に入れた！{NL}セレクトボタンで見てみよう。{BP}{END}|{COLOUR:BLUE}Map of Demon Tower 44F and Top{NL}{COLOUR:WHITE}found!{NL}Press Select to view it.{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}ファイル画面で調べてみよう。{BP}{END}|Found {ITEM:ff}!{NL}View it in your Files.{BP}{END}
+0x173e3c|68|{COLOUR:WHITE}　　マップ　１－１　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 1-1 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－１　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 1-1 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－１　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 1-1 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－１　部屋７{f6:3c}{END}|{COLOUR:WHITE} map 1-1 room 7{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋５Ａ{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 5A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋５Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 5B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋５Ｃ{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 5C{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋７{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 7{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　１－２　部屋８{f6:3c}{END}|{COLOUR:WHITE} map 1-2 room 8{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋５Ａ{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 5A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－１　部屋５Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 2-1 room 5B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋２Ａ{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 2A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋２Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 2B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋４Ａ{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 4A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋４Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 4B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　２－２　部屋５{f6:3c}{END}|{COLOUR:WHITE} map 2-2 room 5{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋５Ａ{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 5A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－１　部屋５Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 3-1 room 5B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋１Ａ{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 1A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋１Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 1B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋２Ａ{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 2A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋２Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 2B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋５{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 5{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋６{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 6{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋７{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 7{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　３－２　部屋８{f6:3c}{END}|{COLOUR:WHITE} map 3-2 room 8{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋５{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 5{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－１　部屋６{f6:3c}{END}|{COLOUR:WHITE} map 4-1 room 6{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－２　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 4-2 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－２　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 4-2 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－２　部屋５Ａ{f6:3c}{END}|{COLOUR:WHITE} map 4-2 room 5A{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－２　部屋５Ｂ{f6:3c}{END}|{COLOUR:WHITE} map 4-2 room 5B{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　４－２　部屋６{f6:3c}{END}|{COLOUR:WHITE} map 4-2 room 6{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－１　部屋０{f6:3c}{END}|{COLOUR:WHITE} map 5-1 room 0{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－１　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 5-1 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－１　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 5-1 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－１　部屋５{f6:3c}{END}|{COLOUR:WHITE} map 5-1 room 5{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－１　部屋６{f6:3c}{END}|{COLOUR:WHITE} map 5-1 room 6{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－Ｋ　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 5-K room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－Ｋ　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 5-K room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－Ｋ　部屋３{f6:3c}{END}|{COLOUR:WHITE} map 5-K room 3{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－Ｋ　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 5-K room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－２　部屋１{f6:3c}{END}|{COLOUR:WHITE} map 5-2 room 1{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－２　部屋２{f6:3c}{END}|{COLOUR:WHITE} map 5-2 room 2{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－２　部屋４{f6:3c}{END}|{COLOUR:WHITE} map 5-2 room 4{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－２　部屋５{f6:3c}{END}|{COLOUR:WHITE} map 5-2 room 5{f6:3c}{END}
+||{COLOUR:WHITE}　　マップ　５－２　部屋６{f6:3c}{END}|{COLOUR:WHITE} map 5-2 room 6{f6:3c}{END}
+||{COLOUR:WHITE}　　タイトルデモ{f6:3c}{END}|{COLOUR:WHITE} TITLE DEMO{f6:3c}{END}
+0x174b54|128|ボトル{END}|Bottle{END}
+||ボトル{END}|Bottle{END}
+||ボトル{END}|Bottle{END}
+||ボトル{END}|Bottle{END}
+||ボトル{END}|Bottle{END}
+||小石{END}|Stones{END}
+||ベアリング{END}|Pellets{END}
+||水晶弾{END}|Marbles{END}
+||マメ爆弾{END}|Bomblets{END}
+||アイドルの怒り{END}|Idol's Fury{END}
+||爆弾{END}|Bombs{END}
+||解毒薬{END}|Antidotes{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||さびた鍵{END}|Rusty Key{END}
+||赤い石盤{END}|Red Tile{END}
+||黄色い石盤{END}|Yellow Tile{END}
+||青い石盤{END}|Blue Tile{END}
+||緑色の石盤{END}|Green Tile{END}
+||青銅の鍵{END}|Bronze Key{END}
+||赤い目玉{END}|Red Eye{END}
+||青い目玉{END}|Blue Eye{END}
+||ヒューズ{END}|Fuse{END}
+||鉄の鍵{END}|Iron Key{END}
+||怪物の鍵{END}|Monster Key{END}
+||トロッコ発着所の鍵{END}|Minecart Key{END}
+||巨人像{END}|Giant Statue{END}
+||絵の間の鍵{END}|Mural Key{END}
+||乙女のレリーフ{END}|Maid Relief{END}
+||青年のレリーフ{END}|Young Man Relief{END}
+||基板{END}|Circuit Board{END}
+||シールド保管庫の鍵{END}|Shield Room Key{END}
+||金の鍵{END}|Gold Key{END}
+||暗号石盤『光』{END}|"Basic" Code Card{END}
+||暗号石盤『閣』{END}|"Special" Code Card{END}
+||小さな円盤『３階』{END}|"3F" Disc{END}
+||小さな円盤『２階』{END}|"2F" Disc{END}
+||板の形をした鍵{END}|Keycard{END}
+||細長い鍵{END}|Cell Key{END}
+||バッテリー保管庫の鍵{END}|Battery Room Key{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||アイドルの水晶{END}|Idol Gem{END}
+||グリーンアイドル{END}|Green Idol{END}
+||イエローアイドル{END}|Yellow Idol{END}
+||ブルーアイドル{END}|Blue Idol{END}
+||レッドアイドル{END}|Red Idol{END}
+||パープルアイドル{END}|Purple Idol{END}
+||水晶のペンダント{END}|Crystal Pendant{END}
+||パチンコ{END}|Slingshot{END}
+||アイテムの水晶{END}|Item Gem{END}
+||泉の水晶{END}|Spring Gem{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||壺{END}|Vase{END}
+||ボックス{END}|Box{END}
+||彫像の首{END}|Statue Head{END}
+||バッテリー{END}|Battery{END}
+||ブラックブロック{END}|Black Box{END}
+||パープルブロック{END}|Purple Box{END}
+||オレンジブロック{END}|Orange Box{END}
+||グリーンブロック{END}|Green Box{END}
+||ホワイトブロック{END}|White Box{END}
+||シールド{END}|Shield{END}
+||強力爆薬{END}|TNT{END}
+||クリスタルボックス{END}|Crystal Box{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||呪い山のふもとの地図{END}|Mt. Curse Base Map{END}
+||悪魔の遺跡の地図{END}|Demon Ruins Map{END}
+||洞窟の研究所の地図{END}|Cave Lab Map{END}
+||地下牢獄の地図{END}|Sunken Jail Map{END}
+||地下水脈の地図{END}|Sewers Map{END}
+||トロッコの地図{END}|Minecart Map{END}
+||溶岩洞窟の地図{END}|Lava Cave Map{END}
+||悪魔の神殿の地図{END}|Demon Temple Map{END}
+||悪魔の塔　１階の地図{END}|Demon Tower 1F Map{END}
+||悪魔の塔　２階の地図{END}|Demon Tower 2F Map{END}
+||悪魔の塔　３階の地図{END}|Demon Tower 3F Map{END}
+||悪魔の塔　４階の地図{END}|Demon Tower 4F Map{END}
+||悪魔の塔　地下１階の地図{END}|Demon Tower B1 Map{END}
+||悪魔の塔　１１階の地図{END}|Demon Tower 11F Map{END}
+||悪魔の塔　２２階の地図{END}|Demon Tower 22F Map{END}
+||悪魔の塔　３３階の地図{END}|Demon Tower 33F Map{END}
+||悪魔の塔　４４階の地図{END}|Demon Tower 44F Map{END}
+||悪魔の塔　屋上{END}|Demon Tower Top{END}
+||予言書{END}|Prophecy Book{END}
+||クイントの手紙{END}|Quint's Letter{END}
+||『泉のかがやき』の楽譜{END}|"Bright Spring" Score{END}
+||『命のきらめき』の楽譜{END}|"Life Glow" Score{END}
+||『黄金の光』の楽譜{END}|"Golden light" Score{END}
+||計算問題{END}|Equation{END}
+||塔案内{END}|Tower Guide{END}
+||魔獣のメモ{END}|Monster Note{END}
+||不死身の戦士のメモ{END}|Undead Minion Note{END}
+||エネルギー中継所案内{END}|Power Plant Guide{END}
+||絵の具のメモ{END}|Paint Note{END}
+||魔法使いのメモ{END}|Wizard Note{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+||空{END}|Nil{END}
+0x1750ac|9|方向キー{END}|D-pad{END}
+||Ｏボタン{END}|{CIRCLE}{END}
+||Ｘボタン{END}|{CROSS}{END}
+||△ボタン{END}|{TRIANGLE}{END}
+||□ボタン{END}|{SQUARE}{END}
+||Ｌ１ボタン{END}|L1{END}
+||Ｌ２ボタン{END}|L2{END}
+||Ｒ１ボタン{END}|R1{END}
+||Ｒ２ボタン{END}|R2{END}
+0x1750d8|19|{f5}{DELAY:00}{COLOUR:WHITE}　{END}|{f5}{DELAY:00}{COLOUR:WHITE} {END}
+||{f5}{DELAY:00}{COLOUR:WHITE}呪い山のふもと{END}|{f5}{DELAY:00}{COLOUR:WHITE}Mt. Curse{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の遺跡{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Ruins{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}洞窟の研究所{END}|{f5}{DELAY:00}{COLOUR:WHITE}Cave Lab{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}地下牢獄{END}|{f5}{DELAY:00}{COLOUR:WHITE}Sunken Jail{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}地下水脈{END}|{f5}{DELAY:00}{COLOUR:WHITE}Sewers{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}トロッコ{END}|{f5}{DELAY:00}{COLOUR:WHITE}Minecart{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}溶岩洞窟{END}|{f5}{DELAY:00}{COLOUR:WHITE}Lava Cave{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の神殿{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Temple{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　地下１階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower B1{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　１階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 1F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　２階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 2F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　３階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 3F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　４階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 4F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　１１階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 11F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　２２階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 22F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　３３階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 33F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　４４階{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower 44F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}悪魔の塔　屋上{END}|{f5}{DELAY:00}{COLOUR:WHITE}Demon Tower Top{END}
+0x175260|238|{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}操作方法を表示します。{NL}{NL}{NL}{COLOUR:BLUE}Ｘボタン{COLOUR:YELLOW}で、この画面を閉じます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}INSTRUCTIONS{NL}{COLOUR:YELLOW}{BUTTON:X} to exit.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}手に入れたファイルを調べます。{NL}{NL}{NL}{COLOUR:BLUE}Ｘボタン{COLOUR:YELLOW}で、この画面を閉じます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}VIEW FILES{NL}{COLOUR:YELLOW}{BUTTON:X} to exit.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}オプションの設定を行います。{NL}{NL}{NL}{COLOUR:BLUE}Ｘボタン{COLOUR:YELLOW}で、この画面を閉じます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}OPTIONS{NL}{COLOUR:YELLOW}{BUTTON:X} to exit.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}データのセーブやロード、整理を{NL}行います。{NL}{NL}{COLOUR:BLUE}Ｘボタン{COLOUR:YELLOW}で、この画面を閉じます。{END}|{f5}{DELAY:00}{COLOUR:WHITE}LOAD & SAVE{NL}{COLOUR:YELLOW}{BUTTON:X} to exit.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}すでに手に何か持っているぞ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}You're already holding{NL}something.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}現在何も手に持っていません。{END}|{f5}{DELAY:00}{COLOUR:WHITE}You're holding nothing.{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}今は手が空いていない…{END}|{f5}{DELAY:00}{COLOUR:WHITE}You're not free{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}爆弾が使えるのは一度に１コだけ{NL}だぞ。{END}|{f5}{DELAY:00}{COLOUR:WHITE}You can only use one bomb at a{NL}time.{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:00}{END}|{f5}{DELAY:00}{NL}      {ITEM:00}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:01}{END}|{f5}{DELAY:00}{NL}      {ITEM:01}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:02}{END}|{f5}{DELAY:00}{NL}      {ITEM:02}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:03}{END}|{f5}{DELAY:00}{NL}      {ITEM:03}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:04}{END}|{f5}{DELAY:00}{NL}      {ITEM:04}{END}
+||{f5}{DELAY:00}{NL}　　　　　　　{ITEM:05}{END}|{f5}{DELAY:00}{NL}       {ITEM:05}{END}
+||{f5}{DELAY:00}{NL}　　　　　{ITEM:06}{END}|{f5}{DELAY:00}{NL}     {ITEM:06}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:07}{END}|{f5}{DELAY:00}{NL}      {ITEM:07}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:08}{END}|{f5}{DELAY:00}{NL}      {ITEM:08}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:09}{END}|{f5}{DELAY:00}{NL}    {ITEM:09}{END}
+||{f5}{DELAY:00}{NL}　　　　　　　{ITEM:0a}{END}|{f5}{DELAY:00}{NL}       {ITEM:0a}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:0b}{END}|{f5}{DELAY:00}{NL}      {ITEM:0b}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:0c}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:0d}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:0e}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:0f}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:10}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:11}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:12}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:13}{END}|{f5}{DELAY:00}{NL} {ITEM:0c}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:14}{END}|{f5}{DELAY:00}{NL}      {ITEM:14}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:15}{END}|{f5}{DELAY:00}{NL}      {ITEM:15}{END}
+||{f5}{DELAY:00}{NL}　　　　　{ITEM:16}{END}|{f5}{DELAY:00}{NL}     {ITEM:16}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:17}{END}|{f5}{DELAY:00}{NL}      {ITEM:17}{END}
+||{f5}{DELAY:00}{NL}　　　　　{ITEM:18}{END}|{f5}{DELAY:00}{NL}     {ITEM:18}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:19}{END}|{f5}{DELAY:00}{NL}      {ITEM:19}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:1a}{END}|{f5}{DELAY:00}{NL}      {ITEM:1a}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:1b}{END}|{f5}{DELAY:00}{NL}      {ITEM:1b}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:1c}{END}|{f5}{DELAY:00}{NL}      {ITEM:1c}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:1d}{END}|{f5}{DELAY:00}{NL}      {ITEM:1d}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:1e}{END}|{f5}{DELAY:00}{NL}      {ITEM:1e}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:1f}{END}|{f5}{DELAY:00}{NL}   {ITEM:1f}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:20}{END}|{f5}{DELAY:00}{NL}      {ITEM:20}{END}
+||{f5}{DELAY:00}{NL}　　　　　{ITEM:21}{END}|{f5}{DELAY:00}{NL}     {ITEM:21}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:22}{END}|{f5}{DELAY:00}{NL}    {ITEM:22}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:23}{END}|{f5}{DELAY:00}{NL}    {ITEM:23}{END}
+||{f5}{DELAY:00}{NL}　　　　　　　{ITEM:24}{END}|{f5}{DELAY:00}{NL}       {ITEM:24}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:25}{END}|{f5}{DELAY:00}{NL}   {ITEM:25}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:26}{END}|{f5}{DELAY:00}{NL}      {ITEM:26}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:27}{END}|{f5}{DELAY:00}{NL}    {ITEM:27}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:28}{END}|{f5}{DELAY:00}{NL}    {ITEM:28}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:29}{END}|{f5}{DELAY:00}{NL}   {ITEM:29}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:2a}{END}|{f5}{DELAY:00}{NL}   {ITEM:2a}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:2b}{END}|{f5}{DELAY:00}{NL}    {ITEM:2b}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:2c}{END}|{f5}{DELAY:00}{NL}      {ITEM:2c}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:2d}{END}|{f5}{DELAY:00}{NL}   {ITEM:2d}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:2e}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:2f}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:30}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:31}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:32}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:33}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:34}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:35}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:36}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:37}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:38}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:39}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:3a}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:3b}{END}|{f5}{DELAY:00}{NL} {ITEM:2e}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:3c}{END}|{f5}{DELAY:00}{NL}    {ITEM:3c}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:3d}{END}|{f5}{DELAY:00}{NL}    {ITEM:3d}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:3e}{END}|{f5}{DELAY:00}{NL}    {ITEM:3e}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:3f}{END}|{f5}{DELAY:00}{NL}    {ITEM:3f}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:40}{END}|{f5}{DELAY:00}{NL}    {ITEM:40}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:41}{END}|{f5}{DELAY:00}{NL}    {ITEM:41}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:42}{END}|{f5}{DELAY:00}{NL}    {ITEM:42}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:43}{END}|{f5}{DELAY:00}{NL}      {ITEM:43}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:44}{END}|{f5}{DELAY:00}{NL}    {ITEM:44}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:45}{END}|{f5}{DELAY:00}{NL}      {ITEM:45}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:46}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:47}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:48}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:49}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4a}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4b}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4c}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4d}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4e}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:4f}{END}|{f5}{DELAY:00}{NL} {ITEM:46}{END}
+||{f5}{DELAY:00}{NL}　　　　　　　{ITEM:50}{END}|{f5}{DELAY:00}{NL}       {ITEM:50}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:51}{END}|{f5}{DELAY:00}{NL}      {ITEM:51}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:52}{END}|{f5}{DELAY:00}{NL}      {ITEM:52}{END}
+||{f5}{DELAY:00}{NL}　　　　　{ITEM:53}{END}|{f5}{DELAY:00}{NL}     {ITEM:53}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:54}{END}|{f5}{DELAY:00}{NL}    {ITEM:54}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:55}{END}|{f5}{DELAY:00}{NL}    {ITEM:55}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:56}{END}|{f5}{DELAY:00}{NL}    {ITEM:56}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:57}{END}|{f5}{DELAY:00}{NL}    {ITEM:57}{END}
+||{f5}{DELAY:00}{NL}　　　　{ITEM:58}{END}|{f5}{DELAY:00}{NL}    {ITEM:58}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:59}{END}|{f5}{DELAY:00}{NL}      {ITEM:59}{END}
+||{f5}{DELAY:00}{NL}　　　　　　{ITEM:5a}{END}|{f5}{DELAY:00}{NL}      {ITEM:5a}{END}
+||{f5}{DELAY:00}{NL}　　　{ITEM:5b}{END}|{f5}{DELAY:00}{NL}   {ITEM:5b}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:5c}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:5d}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:5e}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:5f}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:60}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:61}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:62}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:63}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:64}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:65}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:66}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:67}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:68}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:69}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6a}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6b}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6c}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6d}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6e}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:6f}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:70}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:71}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:72}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:73}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:74}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:75}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:76}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:77}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:78}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:79}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7a}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7b}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7c}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7d}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7e}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{NL}　{ITEM:7f}{END}|{f5}{DELAY:00}{NL} {ITEM:5c}{END}
+||{f5}{DELAY:00}{ITEM:00}{NL}{NL}{COLOUR:WHITE}小さなボトルだ。　命の水を入れて{NL}使おう。　全部で５つあるぞ。{END}|{f5}{DELAY:00}{ITEM:00}{NL}{COLOUR:WHITE}Fill it with life water. There'sonly 5.{END}
+||{f5}{DELAY:00}{ITEM:00}{NL}{NL}{COLOUR:WHITE}小さなボトルだ。　中に命の水が{NL}少しだけ残っている。{END}|{f5}{DELAY:00}{ITEM:00}{NL}{COLOUR:WHITE}Has a little life water in it.{END}
+||{f5}{DELAY:00}{ITEM:00}{NL}{NL}{COLOUR:WHITE}小さなボトルだ。　中に命の水が{NL}まあまあ残っている。{END}|{f5}{DELAY:00}{ITEM:00}{NL}{COLOUR:WHITE}Half-full of life water.{END}
+||{f5}{DELAY:00}{ITEM:00}{NL}{NL}{COLOUR:WHITE}小さなボトルだ。　中に命の水が{NL}たくさん残っている。{END}|{f5}{DELAY:00}{ITEM:00}{NL}{COLOUR:WHITE}It's full of life water.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{ITEM:05}{NL}{NL}{COLOUR:WHITE}拾い集めた小さな石だ。{NL}堅いモンスターには効かないぞ。{END}|{f5}{DELAY:00}{ITEM:05}{NL}{COLOUR:WHITE}Useless against strong foes.{END}
+||{f5}{DELAY:00}{ITEM:06}{NL}{NL}{COLOUR:WHITE}小さくて堅い鉄の玉だ。{NL}パチンコの弾に使えるぞ。{END}|{f5}{DELAY:00}{ITEM:06}{NL}{COLOUR:WHITE}Iron ammo for the slingshot.{END}
+||{f5}{DELAY:00}{ITEM:07}{NL}{NL}{COLOUR:WHITE}ぶつけると破裂する水晶の玉だ。{NL}パチンコの弾に使えるぞ。{END}|{f5}{DELAY:00}{ITEM:07}{NL}{COLOUR:WHITE}Glass ammo for the slingshot.{NL}Shatters on impact.{END}
+||{f5}{DELAY:00}{ITEM:08}{NL}{NL}{COLOUR:WHITE}威力抜群の小さな爆弾だ。{NL}パチンコの弾に使えるぞ。{END}|{f5}{DELAY:00}{ITEM:08}{NL}{COLOUR:WHITE}Small but powerful ammo for the{NL}slingshot.{END}
+||{f5}{DELAY:00}{ITEM:09}{NL}{NL}{COLOUR:WHITE}トゲのついた宝石だ。{NL}パチンコの弾に使えるぞ。{END}|{f5}{DELAY:00}{ITEM:09}{NL}{COLOUR:WHITE}Spiky gems. Ammo for the{NL}slingshot.{END}
+||{f5}{DELAY:00}{ITEM:0a}{NL}{NL}{COLOUR:WHITE}投げて何かにぶつけたり、地面に{NL}置いて３つ数えると爆発するぞ。{END}|{f5}{DELAY:00}{ITEM:0a}{NL}{COLOUR:WHITE}Explode on impact, or 3 seconds{NL}after being dropped.{END}
+||{f5}{DELAY:00}{ITEM:0b}{NL}{NL}{COLOUR:WHITE}毒を消し去る効果のある薬だ。{NL}毒をうけたら飲んでみよう。{END}|{f5}{DELAY:00}{ITEM:0b}{NL}{COLOUR:WHITE}Cure poison.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{ITEM:14}{NL}{NL}{COLOUR:WHITE}古い形のさびた鍵だ。{END}|{f5}{DELAY:00}{ITEM:14}{NL}{COLOUR:WHITE}A rusty old key.{END}
+||{f5}{DELAY:00}{ITEM:15}{NL}{NL}{COLOUR:WHITE}遺跡で見つけた赤い色の石盤だ。{END}|{f5}{DELAY:00}{ITEM:15}{NL}{COLOUR:WHITE}A tile found at the ruins.{END}
+||{f5}{DELAY:00}{ITEM:16}{NL}{NL}{COLOUR:WHITE}遺跡で見つけた黄色い石盤だ。{END}|{f5}{DELAY:00}{ITEM:16}{NL}{COLOUR:WHITE}A tile found at the ruins.{END}
+||{f5}{DELAY:00}{ITEM:17}{NL}{NL}{COLOUR:WHITE}遺跡で見つけた青い色の石盤だ。{END}|{f5}{DELAY:00}{ITEM:17}{NL}{COLOUR:WHITE}A tile found at the ruins.{END}
+||{f5}{DELAY:00}{ITEM:18}{NL}{NL}{COLOUR:WHITE}遺跡で見つけた緑色の石盤だ。{END}|{f5}{DELAY:00}{ITEM:18}{NL}{COLOUR:WHITE}A tile found at the ruins.{END}
+||{f5}{DELAY:00}{ITEM:19}{NL}{NL}{COLOUR:WHITE}青銅でできた扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:19}{NL}{COLOUR:WHITE}A key to a bronze door.{END}
+||{f5}{DELAY:00}{ITEM:1a}{NL}{NL}{COLOUR:WHITE}きれいな石で作られた赤い目玉だ。{END}|{f5}{DELAY:00}{ITEM:1a}{NL}{COLOUR:WHITE}A red eyeball made of a pretty{NL}stone.{END}
+||{f5}{DELAY:00}{ITEM:1b}{NL}{NL}{COLOUR:WHITE}きれいな石で作られた青い目玉だ。{END}|{f5}{DELAY:00}{ITEM:1b}{NL}{COLOUR:WHITE}A blue eyeball made of a pretty{NL}stone.{END}
+||{f5}{DELAY:00}{ITEM:1c}{NL}{NL}{COLOUR:WHITE}何かの機械に取り付けて使う、{NL}予備用のヒューズだ。{END}|{f5}{DELAY:00}{ITEM:1c}{NL}{COLOUR:WHITE}A spare fuse for some sort of{NL}machine.{END}
+||{f5}{DELAY:00}{ITEM:1d}{NL}{NL}{COLOUR:WHITE}鉄でできた扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:1d}{NL}{COLOUR:WHITE}A key to an iron door.{END}
+||{f5}{DELAY:00}{ITEM:1e}{NL}{NL}{COLOUR:WHITE}怪物が持っていた扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:1e}{NL}{COLOUR:WHITE}Taken from a monster.{END}
+||{f5}{DELAY:00}{ITEM:1f}{NL}{NL}{COLOUR:WHITE}トロッコ発着所の扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:1f}{NL}{COLOUR:WHITE}A key to the minecart station.{END}
+||{f5}{DELAY:00}{ITEM:20}{NL}{NL}{COLOUR:WHITE}巨人の姿がかたどられた像だ。{END}|{f5}{DELAY:00}{ITEM:20}{NL}{COLOUR:WHITE}A statue of a giant.{END}
+||{f5}{DELAY:00}{ITEM:21}{NL}{NL}{COLOUR:WHITE}絵の間の扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:21}{NL}{COLOUR:WHITE}A key to a room with a mural.{END}
+||{f5}{DELAY:00}{ITEM:22}{NL}{NL}{COLOUR:WHITE}グディア族の乙女の顔が彫り込まれ{NL}たレリーフだ。{END}|{f5}{DELAY:00}{ITEM:22}{NL}{COLOUR:WHITE}A carved effigy of a Gudian maid.{END}
+||{f5}{DELAY:00}{ITEM:23}{NL}{NL}{COLOUR:WHITE}グディア族の青年の顔が彫り込まれ{NL}たレリーフだ。{END}|{f5}{DELAY:00}{ITEM:23}{NL}{COLOUR:WHITE}A carved effigy of a young{NL}Gudian man.{END}
+||{f5}{DELAY:00}{ITEM:24}{NL}{NL}{COLOUR:WHITE}何かの機械に取り付けて使う、{NL}小さな基板だ。{END}|{f5}{DELAY:00}{ITEM:24}{NL}{COLOUR:WHITE}A small circuit board for some{NL}sort of machine.{END}
+||{f5}{DELAY:00}{ITEM:25}{NL}{NL}{COLOUR:WHITE}シールド保管庫の扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:25}{NL}{COLOUR:WHITE}A key to the shield storage{NL}room.{END}
+||{f5}{DELAY:00}{ITEM:26}{NL}{NL}{COLOUR:WHITE}金でできた扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:26}{NL}{COLOUR:WHITE}A key to a gold door.{END}
+||{f5}{DELAY:00}{ITEM:27}{NL}{NL}{COLOUR:WHITE}秘密のデータを書き込める石盤だ。{NL}表面に『光』と書かれている。{END}|{f5}{DELAY:00}{ITEM:27}{NL}{COLOUR:WHITE}Used to activate lifts.{NL}It says "Basic".{END}
+||{f5}{DELAY:00}{ITEM:28}{NL}{NL}{COLOUR:WHITE}秘密のデータを書き込める石盤だ。{NL}表面に『閣』と書かれている。{END}|{f5}{DELAY:00}{ITEM:28}{NL}{COLOUR:WHITE}Used to activate lifts.{NL}It says "Special".{END}
+||{f5}{DELAY:00}{ITEM:29}{NL}{NL}{COLOUR:WHITE}小さな円盤だ。{NL}表面に『３階』と書かれている。{END}|{f5}{DELAY:00}{ITEM:29}{NL}{COLOUR:WHITE}A small disc that says{NL}"3rd floor".{END}
+||{f5}{DELAY:00}{ITEM:2a}{NL}{NL}{COLOUR:WHITE}小さな円盤だ。{NL}表面に『２階』と書かれている。{END}|{f5}{DELAY:00}{ITEM:2a}{NL}{COLOUR:WHITE}A small disc that says{NL}"2nd floor".{END}
+||{f5}{DELAY:00}{ITEM:2b}{NL}{NL}{COLOUR:WHITE}板の形をした扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:2b}{NL}{COLOUR:WHITE}A key to an electronic door.{END}
+||{f5}{DELAY:00}{ITEM:2c}{NL}{NL}{COLOUR:WHITE}細長い形の牢屋の扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:2c}{NL}{COLOUR:WHITE}A key to a small cell.{END}
+||{f5}{DELAY:00}{ITEM:2d}{NL}{NL}{COLOUR:WHITE}バッテリー保管庫の扉の鍵だ。{END}|{f5}{DELAY:00}{ITEM:2d}{NL}{COLOUR:WHITE}A key to the battery storage{NL}room.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{ITEM:3c}{NL}{NL}{COLOUR:WHITE}アイドルを守るバリアを消し去る{NL}効果があるぞ。{END}|{f5}{DELAY:00}{ITEM:3c}{NL}{COLOUR:WHITE}Lifts seals that block idols.{END}
+||{f5}{DELAY:00}{ITEM:3d}{NL}{NL}{COLOUR:WHITE}きれいな石でできた像だ。{NL}全部で５体あるぞ。{END}|{f5}{DELAY:00}{ITEM:3d}{NL}{COLOUR:WHITE}A lovely stone statue.{NL}There's 5 of them.{END}
+||{f5}{DELAY:00}{ITEM:3e}{NL}{NL}{COLOUR:WHITE}きれいな石でできた像だ。{NL}全部で５体あるぞ。{END}|{f5}{DELAY:00}{ITEM:3e}{NL}{COLOUR:WHITE}A lovely stone statue.{NL}There's 5 of them.{END}
+||{f5}{DELAY:00}{ITEM:3f}{NL}{NL}{COLOUR:WHITE}きれいな石でできた像だ。{NL}全部で５体あるぞ。{END}|{f5}{DELAY:00}{ITEM:3f}{NL}{COLOUR:WHITE}A lovely stone statue.{NL}There's 5 of them.{END}
+||{f5}{DELAY:00}{ITEM:40}{NL}{NL}{COLOUR:WHITE}きれいな石でできた像だ。{NL}全部で５体あるぞ。{END}|{f5}{DELAY:00}{ITEM:40}{NL}{COLOUR:WHITE}A lovely stone statue.{NL}There's 5 of them.{END}
+||{f5}{DELAY:00}{ITEM:41}{NL}{NL}{COLOUR:WHITE}きれいな石でできた像だ。{NL}全部で５体あるぞ。{END}|{f5}{DELAY:00}{ITEM:41}{NL}{COLOUR:WHITE}A lovely stone statue.{NL}There's 5 of them.{END}
+||{f5}{DELAY:00}{ITEM:42}{NL}{NL}{COLOUR:WHITE}クイントからもらった水晶の{NL}ペンダントだ。{END}|{f5}{DELAY:00}{ITEM:42}{NL}{COLOUR:WHITE}Obtained from Quint.{END}
+||{f5}{DELAY:00}{ITEM:43}{NL}{NL}{COLOUR:WHITE}使い慣れたパチンコだ。　色々な弾{NL}をそうびして撃ってみよう。{END}|{f5}{DELAY:00}{ITEM:43}{NL}{COLOUR:WHITE}A classic slingshot. Takes many{NL}kinds of ammo.{END}
+||{f5}{DELAY:00}{ITEM:44}{NL}{NL}{COLOUR:WHITE}アイテムを守るバリアを消し去る{NL}効果があるぞ。{END}|{f5}{DELAY:00}{ITEM:44}{NL}{COLOUR:WHITE}Lifts seals that block items.{END}
+||{f5}{DELAY:00}{ITEM:45}{NL}{NL}{COLOUR:WHITE}命の泉の前で使ってみよう。{NL}命の泉を利用できるようになるぞ。{END}|{f5}{DELAY:00}{ITEM:45}{NL}{COLOUR:WHITE}Refills life springs.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{DELAY:00}{ITEM:50}{NL}{NL}{COLOUR:WHITE}壊れやすい壺だ。{NL}中に何か入っているかも…{END}|{f5}{DELAY:00}{ITEM:50}{NL}{COLOUR:WHITE}Fragile. There may be something{NL}in it{ELLIPSIS}{END}
+||{f5}{DELAY:00}{ITEM:51}{NL}{NL}{COLOUR:WHITE}頑丈な箱だ。　投げたり台にしたり{NL}色々ためしてみよう。{END}|{f5}{DELAY:00}{ITEM:51}{NL}{COLOUR:WHITE}Sturdy. Used for throwing or{NL}climbing.{END}
+||{f5}{DELAY:00}{ITEM:52}{NL}{NL}{COLOUR:WHITE}石でできた首の像だ。{NL}体を捜している様だ。{END}|{f5}{DELAY:00}{ITEM:52}{NL}{COLOUR:WHITE}A head of a stone statue.{NL}Its body is missing.{END}
+||{f5}{DELAY:00}{ITEM:53}{NL}{NL}{COLOUR:WHITE}トロッコをパワーアップさせる{NL}ことができるぞ。{END}|{f5}{DELAY:00}{ITEM:53}{NL}{COLOUR:WHITE}Powers up a minecart.{END}
+||{f5}{DELAY:00}{ITEM:54}{NL}{NL}{COLOUR:WHITE}無くしても元あった場所に{NL}現れる不思議な箱だ。{END}|{f5}{DELAY:00}{ITEM:54}{NL}{COLOUR:WHITE}A curious box that returns to{NL}its place after being used.{END}
+||{f5}{DELAY:00}{ITEM:55}{NL}{NL}{COLOUR:WHITE}無くしても元あった場所に{NL}現れる不思議な箱だ。{END}|{f5}{DELAY:00}{ITEM:55}{NL}{COLOUR:WHITE}A curious box that returns to{NL}its place after being used.{END}
+||{f5}{DELAY:00}{ITEM:56}{NL}{NL}{COLOUR:WHITE}無くしても元あった場所に{NL}現れる不思議な箱だ。{END}|{f5}{DELAY:00}{ITEM:56}{NL}{COLOUR:WHITE}A curious box that returns to{NL}its place after being used.{END}
+||{f5}{DELAY:00}{ITEM:57}{NL}{NL}{COLOUR:WHITE}無くしても元あった場所に{NL}現れる不思議な箱だ。{END}|{f5}{DELAY:00}{ITEM:57}{NL}{COLOUR:WHITE}A curious box that returns to{NL}its place after being used.{END}
+||{f5}{DELAY:00}{ITEM:58}{NL}{NL}{COLOUR:WHITE}無くしても元あった場所に{NL}現れる不思議な箱だ。{END}|{f5}{DELAY:00}{ITEM:58}{NL}{COLOUR:WHITE}A curious box that returns to{NL}its place after being used.{END}
+||{f5}{DELAY:00}{ITEM:59}{NL}{NL}{COLOUR:WHITE}あらゆる攻撃を防ぐ丈夫なタテだ。{END}|{f5}{DELAY:00}{ITEM:59}{NL}{COLOUR:WHITE}A mighty shield impervious to{NL}attacks.{END}
+||{f5}{DELAY:00}{ITEM:5a}{NL}{NL}{COLOUR:WHITE}ちょっとでも乱暴に扱うと爆発{NL}するぞ！！{END}|{f5}{DELAY:00}{ITEM:5a}{NL}{COLOUR:WHITE}HANDLE WITH CARE!!{END}
+||{f5}{DELAY:00}{ITEM:5b}{NL}{NL}{COLOUR:WHITE}悪魔を倒す力を持つ水晶が{NL}入っている箱だ。{END}|{f5}{DELAY:00}{ITEM:5b}{NL}{COLOUR:WHITE}Stores a gem that can defeat{NL}demons.{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||{f5}{END}|{f5}{END}
+||手に持つ{END}|HOLD {END}
+||閉じる　{END}|EXIT {END}
+||しまう　{END}|STORE{END}
+||そうび　{END}|EQUIP{END}
+||使　う　{END}|USE  {END}
+||{f5}{DELAY:00}{COLOUR:WHITE}アイテムＮＯ　{DIGITS:0003}　・{DIGITS:0103}こ{END}|{f5}{DELAY:00}{COLOUR:WHITE}ITEM #{DIGITS:0003}·{DIGITS:0103}{END}
+0x176310|26|{f5}{DELAY:01}{COLOUR:WHITE}『罠が発動されました。３ケタの{NL}　数字の解除コードを入力して{NL}　下さい。』{BP}{END}|{f5}{DELAY:01}{COLOUR:WHITE}"Trap set. Please enter{NL}deactivation code."{BP}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}３ケタの数字を打ちこめるようだ…{END}|{f5}{DELAY:00}{COLOUR:WHITE}It's a 3 digit code{ELLIPSIS}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　おっ、合っていたみたいだぞ！　{BP}{END}|{f5}{DELAY:00}{COLOUR:WHITE}I got it!{BP}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　　　　違うみたいだ…{BP}{END}|{f5}{DELAY:00}{COLOUR:WHITE}That's not it{ELLIPSIS}{BP}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}『解除コード確認。　罠を解除{NL}　します。』{BP}{END}|{f5}{DELAY:01}{COLOUR:WHITE}"Code accepted.{NL}Trap disabled."{BP}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}『解除コード確認。　解除コードが{NL}　違います。』{BP}{END}|{f5}{DELAY:01}{COLOUR:WHITE}"Incorrect code.{NL}Try again."{BP}{END}
+||{DELAY:00}{COLOUR:WHITE}{NL}{NL}　　　　　{DIGITS:0082}　{DIGITS:0182}　{DIGITS:0282}{END}|{DELAY:00}{COLOUR:WHITE}{NL}{NL}     {DIGITS:0082}  {DIGITS:0182}  {DIGITS:0282}{END}
+||　{END}| {END}
+||{f5}{DELAY:00}{COLOUR:WHITE}どの階に行こうかな？{END}|{f5}{DELAY:00}{COLOUR:WHITE}Which floor?{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　　　　{DIGITS:0082}階に行こう！{BP}{END}|{f5}{DELAY:00}{COLOUR:WHITE}To floor {DIGITS:0082}!{BP}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}{NL}　　あっ、ここが{DIGITS:0082}階だ…{BP}{END}|{f5}{DELAY:00}{COLOUR:WHITE}I'm already on floor {DIGITS:0082}{ELLIPSIS}{BP}{END}
+||　　　　{END}|     {END}
+||　１階　{END}|  1F {END}
+||　２階　{END}|  2F {END}
+||　３階　{END}|  3F {END}
+||　４階　{END}|  4F {END}
+||　１１階{END}|  11F{END}
+||　２２階{END}|  22F{END}
+||　３３階{END}|  33F{END}
+||　４４階{END}|  44F{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}トロッコは動きそうだ。{NL}トロッコを動かしてみようかな？{NL}　　　　　発進！{NL}　　　　　やめよう…{END}|{f5}{DELAY:00}{COLOUR:WHITE}The cart looks OK. Start it?{NL}{NL}     Lift-off!{NL}     Better not{ELLIPSIS}{NL}{END}
+||{f5}{DELAY:00}{COLOUR:WHITE}トロッコを動かしてみようかな？{NL}{NL}　　　　　発進！{NL}　　　　　やめよう…{END}|{f5}{DELAY:00}{COLOUR:WHITE}Start the cart?{NL}{NL}     Lift-off!{NL}     Better not{ELLIPSIS}{NL}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない…{BP}{DELAY:00}{f5}{ITEM:44}を使いますか？{NL}{NL}{DELAY:00}　　　　　使う！{NL}　　　　　やめよう…{END}|{f5}{DELAY:01}{COLOUR:WHITE}This item is sealed{ELLIPSIS}{BP}{DELAY:00}{f5}Use {ITEM:44}?{NL}{NL}{DELAY:00}     Yes!{NL}     Not now{ELLIPSIS}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気が出るのに…{BP}{DELAY:00}{f5}{ITEM:45}を使いますか？{NL}{NL}{DELAY:00}　　　　　使う！{NL}　　　　　やめよう…{END}|{f5}{DELAY:01}{COLOUR:WHITE}The life spring has run dry. I{NL}could heal if it had water{ELLIPSIS}{BP}{DELAY:00}{f5}Use {ITEM:45}?{NL}{NL}{DELAY:00}     Yes!{NL}     Not now{ELLIPSIS}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}アイドルが置いてあるけど、{NL}{DIGITS:0001}つのバリアがはられているので{NL}アイドルが取れない…{BP}{DELAY:00}{f5}{ITEM:3c}を使いますか？{NL}{NL}{DELAY:00}　　　　　使う！{NL}　　　　　やめよう…{END}|{f5}{DELAY:01}{COLOUR:WHITE}The idol is behind {DIGITS:0001} of{NL}those seals{ELLIPSIS}{NL}{BP}{DELAY:00}{f5}Use {ITEM:3c}?{NL}{NL}{DELAY:00}     Yes!{NL}     Not now{ELLIPSIS}{END}
+||{f5}{DELAY:01}{COLOUR:WHITE}{ITEM:3c}を使った！{NL}{DIGITS:0001}つ目のバリアが解けたぞ！{NL}{BP}{DELAY:00}{f5}もう１回{ITEM:3c}を{NL}使いますか？{NL}{DELAY:00}　　　　　使う！{NL}　　　　　やめよう…{END}|{f5}{DELAY:01}{COLOUR:WHITE}Used {ITEM:3c}!{NL}Seal #{DIGITS:0001} lifted!{NL}{BP}{DELAY:00}{f5}Use {ITEM:3c} again?{NL}{NL}{DELAY:00}     Yes!{NL}     Not now{ELLIPSIS}{END}
+0x1cc868|4|{f5}{DELAY:00}{COLOUR:WHITE}{END}|{f5}{DELAY:00}{COLOUR:WHITE}{END}
+||{DELAY:00}{COLOUR:WHITE}今回のデータをセーブする{END}|{DELAY:00}{COLOUR:WHITE}SAVE GAME{END}
+||{DELAY:00}{COLOUR:WHITE}閉じる{END}|{DELAY:00}{COLOUR:WHITE}EXIT{END}
+||{DELAY:00}{COLOUR:WHITE}閉じる{END}|{DELAY:00}{COLOUR:WHITE}EXIT{END}

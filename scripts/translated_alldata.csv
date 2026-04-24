@@ -1,0 +1,713 @@
+0x13b498|16|恐いけど先に進むしかないようだ…{NL}イザとなったら得意のパチンコを{NL}使おう！{BP}{f5}{COLOUR:YELLOW}パチンコは、{BUTTON:07}でかまえて{NL}{BUTTON:01}で撃つことができるぞ。{NL}同時に{BUTTON:06}を使えば、{NL}見回しながら撃つこともできる。{BP}{f5}{COLOUR:WHITE}操作方法がわからなくなったら、{NL}スタートボタンでメニュー画面を{NL}開いて、その中にあるアクション{NL}画面を見てみよう。{BP}{END}|I'm scared, but I need to keep{NL}going{ELLIPSIS} At least I have my{NL}slingshot!{BP}{f5}{COLOUR:YELLOW}Aim the slingshot with {BUTTON:R2} and{NL}fire with {BUTTON:CIRCLE}.{NL}Look around while aiming with{NL}{BUTTON:L2}.{BP}{END}
+||ジャンプではとどきそうもない…{NL}ジャンプしてふちにつかまって、{NL}よじ登ればいいのかな？{BP}{f5}{COLOUR:YELLOW}{BUTTON:02}でジャンプして、{BUTTON:01}{NL}でふちにつかまることができるぞ。{NL}ふちにつかまったら{BUTTON:00}の{COLOUR:CYAN}↑{COLOUR:YELLOW}で{NL}よじ登れる。{BP}{END}|I can't jump that high{ELLIPSIS} Maybe ifI grab the edge and climb up?{BP}{f5}{COLOUR:YELLOW}Jump with {BUTTON:X} and grab the edge{NL}with {BUTTON:CIRCLE}. Then, climb up with{NL}{BUTTON:D} {COLOUR:CYAN}{UP}{COLOUR:YELLOW}.{BP}{END}
+||地割れの底が見えない。{NL}こんな高い所から落ちたら大変だ…{NL}{BP}{f5}{COLOUR:YELLOW}落ちると大変そうな所では、{NL}{BUTTON:03}で歩いて移動しよう。{NL}歩いているときは、ガケから{NL}先には移動しなくなる。{BP}{f5}{COLOUR:WHITE}右側に洞窟があるぞ、洞窟へ{NL}入ってみよう。{BP}{END}|I can't see the bottom{ELLIPSIS}{NL}This fall would kill me!{BP}{f5}{COLOUR:YELLOW}Walk with {BUTTON:SQUARE} so you don't go pastthe edge and fall.{BP}{f5}{COLOUR:WHITE}I should go check that cave{NL}over there.{BP}{END}
+||下にすきまがある。{NL}しゃがんで前転をすれば、通り抜け{NL}ることができるかもしれない…{NL}{BP}{f5}{COLOUR:YELLOW}{BUTTON:04}でしゃがむことができる。{NL}しゃがんだ状態で{BUTTON:00}の{COLOUR:CYAN}↑{COLOUR:YELLOW}で{NL}前転、{BUTTON:00}の{COLOUR:CYAN}↓{COLOUR:YELLOW}で後転が{NL}できるぞ。{BP}{END}|I can get through that gap by{NL}rolling{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Crouch with {BUTTON:TRIANGLE} and roll forward{NL}with {BUTTON:D} {COLOUR:CYAN}{UP}{COLOUR:YELLOW} or backwards with{NL}{BUTTON:D} {COLOUR:CYAN}{DOWN}{COLOUR:YELLOW}.{BP}{END}
+||索い地割れに落ちてしまったので、{NL}山道にはもどれそうにない…{BP}{END}|I can't get back to the mountainpath{ELLIPSIS}{BP}{END}
+||{COLOUR:WHITE}　じゃあ、気をつけて行っといで{END}|{COLOUR:WHITE}Take care.{END}
+||{f5}　　　　うん、わかった{END}|{f5}Got it.{END}
+||{f5}　　　　　気をつけてね{END}|{f5}Be careful.{END}
+||{f5}　　　　呪い山の方には{NL}　　　　行くんじゃないよ{END}|{f5}Don't go near Mt. Curse!{END}
+||{f5}　平気だよ、恐くなんかないもん{END}|{f5}It's OK, I'm not scared.{END}
+||{f5}　　　　　　ダメ！{END}|{f5}I mean it!{END}
+||{f5}　あそこは、悪魔がすんでいて{END}|{f5}A demon lives there!{END}
+||{f5}　　　　わかった、わかった{END}|{f5}I know, I know{ELLIPSIS}{END}
+||{f5}　　　　じゃ、行ってくるね{END}|{f5}OK, I'm off.{END}
+||{f5}　　　　呪い山の方には{NL}　　　　行っちゃダメだよ！{END}|{f5}Don't go near Mt. Curse!{END}
+||{f5}　　　　　『呪い山』{END}|{f5}{END}
+0x148230|8|ボックスが落ちている。{NL}これ位の大きさのものなら、僕でも{NL}手で持ち運べそうだ…{BP}{f5}{COLOUR:YELLOW}物に近づいて{BUTTON:01}で物を拾う{NL}ことができる。{BP}{f5}物を持った状態で、{BUTTON:07}で{NL}かまえて{BUTTON:01}で物を投げる{NL}ことができるぞ。{BP}{END}|I can lift this box{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Grab things with {BUTTON:CIRCLE}.{BP}{f5}With something held, use {BUTTON:R2} to{NL}aim and {BUTTON:CIRCLE} to throw it.{BP}{END}
+||思い切ってジャンプして、向こう{NL}側のふちにつかまれば、わたれる{NL}かもしれない…{BP}{f5}{COLOUR:YELLOW}{BUTTON:00}の{COLOUR:CYAN}↑{COLOUR:YELLOW}を押しながら{BUTTON:02}{NL}でジャンプして、{BUTTON:01}でふちに{NL}つかまることができるぞ。{BP}{END}|It'll take a leap of faith to{NL}reach the other side{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Jump with {BUTTON:X} and {BUTTON:D} {COLOUR:CYAN}{UP}{COLOUR:YELLOW}, then{NL}grab the ledge with {BUTTON:CIRCLE}.{BP}{END}
+||ふちにつかまったまま、左に移動{NL}してみよう。{NL}先に進めるかもしれない…{BP}{f5}{COLOUR:YELLOW}{BUTTON:01}を押したまま、{BUTTON:00}の{NL}{COLOUR:CYAN}←{COLOUR:YELLOW}・{COLOUR:CYAN}→{COLOUR:YELLOW}でふちをつたって移動できる{NL}ぞ。{BP}{END}|I can slide left here{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Move along a ledge with {BUTTON:D} {COLOUR:CYAN}{LEFT}{NL}{COLOUR:YELLOW}or {COLOUR:CYAN}{RIGHT}{COLOUR:YELLOW} while holding {BUTTON:CIRCLE}.{BP}{END}
+||ちょっと危ないけど、ここなら{NL}前後にスイングしてジャンプできる{NL}かもしれない…{BP}{f5}{COLOUR:YELLOW}{BUTTON:00}の{COLOUR:CYAN}↑{COLOUR:YELLOW}と{COLOUR:CYAN}↓{COLOUR:YELLOW}を使ってスイング{NL}ができる。{NL}スイング中に{BUTTON:01}をはなすと{NL}ジャンプができるぞ。{BP}{f5}{BUTTON:05}を押せば、バーに{NL}つかまったままでも１８０度反転を{NL}することができる。{BP}{END}|It's risky, but I can swing hereand jump{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Swing with {BUTTON:D} {COLOUR:CYAN}{UP}{COLOUR:YELLOW} and {COLOUR:CYAN}{DOWN}{COLOUR:YELLOW},{NL}then release {BUTTON:CIRCLE} to jump.{BP}{f5}While on the bar, use {BUTTON:R1} to do a180° turn.{BP}{END}
+||この黄色い柱の上の奥に通路が{NL}あるようだ…{NL}{BP}{f5}{COLOUR:YELLOW}カメラモードは、{BUTTON:L2}で{NL}見回しているときに{NL}{BUTTON:TRIANGLE}できりかえることが{NL}できるぞ。{NL}{BP}{f5}カメラモードには、{NL}ついびモードとマップモードの{NL}２しゅるいがあるぞ。{BP}{END}|I see a path past this yellow{NL}pillar{ELLIPSIS}{NL}{BP}{f5}{COLOUR:YELLOW}Switch camera modes with {BUTTON:TRIANGLE} whilelooking with {BUTTON:L2}.{NL}{BP}{f5}The modes are follow from{NL}behind, or fixed.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+0x158798|10|下の床はもろくなっているようだ。{NL}ふみつければ壊せるかもしれない…{NL}{BP}{f5}{COLOUR:YELLOW}{BUTTON:X}でジャンプして、{NL}ジャンプ中に{BUTTON:TRIANGLE}を押すと、{NL}踏みつけができるぞ。{BP}{END}|The floor looks fragile, maybe I{NL}can break it{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Jump with {BUTTON:X} and use {BUTTON:TRIANGLE} in mid-airto do a stomp.{BP}{END}
+||大きなボックスがある。{NL}これ位の大きさのものなら、僕でも{NL}押したり引いたりして動かせるかも{NL}しれない…{BP}{f5}{COLOUR:YELLOW}大きな物にくっついて、{BUTTON:CIRCLE}を{NL}押しながら{BUTTON:D}の{COLOUR:CYAN}↑{COLOUR:YELLOW}で押すこと{NL}が、{BUTTON:D}の{COLOUR:CYAN}↓{COLOUR:YELLOW}で引くことが{NL}できる。{BP}{END}|This box is huge, but maybe I{NL}can move it{ELLIPSIS}{BP}{f5}{COLOUR:YELLOW}Push or pull big objects with {BUTTON:CIRCLE}{NL}and {BUTTON:D}{COLOUR:CYAN} {UP} {COLOUR:YELLOW}or{COLOUR:CYAN} {DOWN}{COLOUR:YELLOW}.{BP}{END}
+||命の泉だ！{NL}命の泉からわき出る{NL}命の水を飲めば、体力を{NL}回復させることができるぞ！{BP}{END}|A life spring! The water can{NL}heal me.{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+0x17498c|6|この先のガケは、少し高くなって{NL}いるようだ…{NL}{BP}{f5}{COLOUR:YELLOW}{BUTTON:CIRCLE}を押しながらガケから{NL}落ちると、体の向きに関係なく{NL}自動的にガケのふちにつかまる{NL}ことができるぞ。{NL}{BP}{END}|This cliff is too high{ELLIPSIS}{NL}{BP}{f5}{COLOUR:YELLOW}Grab the edge with {BUTTON:CIRCLE} when{NL}falling forward or backwards.{BP}{END}
+||壁に鍵穴がある…{BP}{END}|It's a keyhole{ELLIPSIS}{BP}{END}
+||大きな扉だ。{NL}扉は開かない…{NL}こことはべつの場所に、この扉を{NL}開けるための仕掛けがあるようだ。{BP}{END}|This door won't budge{ELLIPSIS} Maybe{NL}there's a way to open it nearby.{BP}{END}
+||{COLOUR:WHITE}{END}|{COLOUR:WHITE}{END}
+||{COLOUR:WHITE}　　　　　　　！{END}|{COLOUR:WHITE}!{END}
+||{f5}　　　　　どうしよう…{END}|{f5}What should I do{ELLIPSIS}?{END}
+0x18e334|12|ここに置いてあったアイドルは{NL}もう手に入れたぞ。{BP}{END}|I already got the idol.{BP}{END}
+||アイドルが置いてあるけど、{NL}５つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 5 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}４つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 4 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}３つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 3 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}２つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 2 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}バリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}消すことができるぞ。{BP}{END}|The idol is behind one last{NL}seal{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift it.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:3c}を使った！{NL}１つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 1 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}２つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 2 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}３つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 3 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}４つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 4 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}バリアが全部解けてアイドルを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:3c}!{NL}Last seal lifted, you can get{NL}the idol!{BP}{END}
+0x1a5880|8|命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||壁に大きなドラがかけられている…{BP}{END}|A big gong{ELLIPSIS}{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+0x1b7310|6|{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||扉は開かない…{NL}扉は木でできているぞ。{NL}何とかして壊せないかな？{BP}{END}|This wooden door won't open{ELLIPSIS}{NL}Maybe I can break it somehow?{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+0x1c751c|1|扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+0x1e15d4|5|壁に鍵穴がある…{BP}{END}|It's a keyhole{ELLIPSIS}{BP}{END}
+||壁に何か書いてあるようだが、{NL}暗くて全体が見えない…{BP}{END}|It's too dark to read it{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{NL}となりの壁に鍵穴があるぞ。{BP}{END}|Locked{ELLIPSIS} There's a keyhole in thewall.{BP}{END}
+||{ITEM:ff}を外した。{NL}{ITEM:ff}を手に入れた！{BP}{END}|{ITEM:ff} taken.{BP}{END}
+||大きな石の柱だ。{NL}表面には文字と絵が彫られていて、{NL}下には何かをはめ込むための{NL}くぼみがある。{BP}{END}|A stone pillar with carvings and{NL}a bottom slot.{BP}{END}
+0x1fd97c|1|だみー{BP}{END}|N/A{BP}{END}
+0x217f10|4|壁に鍵穴がある…{BP}{END}|It's a keyhole{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{NL}となりの壁に鍵穴があるぞ。{BP}{END}|Locked{ELLIPSIS} There's a keyhole in thewall.{BP}{END}
+||壁に何か書いてあるようだが、{NL}暗くて全体が見えない…{BP}{END}|It's too dark to read it{ELLIPSIS}{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x228364|1|…{BP}{END}|{ELLIPSIS}{BP}{END}
+0x234854|1|扉はビクともしない。{NL}どうやら閉じ込められて{NL}しまったようだ…{BP}{END}|The door won't budge, I'm{NL}trapped{ELLIPSIS}{BP}{END}
+0x24a1e0|11|下に大きな穴があいていて、{NL}穴の底が見えない…{NL}こんな高い所から落ちたら{NL}大変だ…{BP}{f5}上にあるうんていにつかまって{NL}移動すれば先に進めるかも{NL}しれない…{BP}{END}|I can't see the bottom, it's a{NL}nasty fall{ELLIPSIS}{BP}{f5}Maybe I can cross using those{NL}bars{ELLIPSIS}{BP}{END}
+||スイッチを押してみたけど、{NL}何も起こらない…{BP}{END}|Pressing the switch did nothing{ELLIPSIS}{BP}{END}
+||配電盤だ。{NL}ヒューズが抜かれていて電気が{NL}通っていないようだ…{BP}{END}|This panel needs a fuse{ELLIPSIS}{BP}{END}
+||配電盤だ。{NL}ヒューズがセットされたので電気が{NL}通ったようだ…{BP}{END}|The panel works now.{BP}{END}
+||大きな顔の石像だ。{NL}片方の目が無くなっている…{BP}{END}|A big one-eyed stone statue{ELLIPSIS}{BP}{END}
+||{ITEM:ff}が外れた。{NL}{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||大きな顔の石像だ。{NL}この赤い目玉は取れないようだ…{BP}{END}|A big stone statue. Its red eye{NL}is fixed{ELLIPSIS}{BP}{END}
+||大きな顔の石像がうなり声を{NL}あげている…{BP}{END}|A howling big-faced stone{NL}statue{ELLIPSIS}{BP}{END}
+||落石で入口がふさがれている…{BP}{END}|The path is blocked by a{NL}rockslide{ELLIPSIS}{BP}{END}
+||{ITEM:1b}をセットした。{BP}{END}|{ITEM:1b} set.{BP}{END}
+||{ITEM:1a}をセットした。{BP}{END}|{ITEM:1a} set.{BP}{END}
+0x2582f4|7|大きな顔の石像だ。{NL}片方の目が無くなっている…{BP}{END}|A big one-eyed stone statue{ELLIPSIS}{BP}{END}
+||{ITEM:ff}が外れた。{NL}{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||大きな顔の石像だ。{NL}この青い目玉は取れないようだ…{BP}{END}|A big stone statue. Its blue eyeis fixed{ELLIPSIS}{BP}{END}
+||大きな顔の石像がうなり声を{NL}あげている…{BP}{END}|A howling big-faced stone{NL}statue{ELLIPSIS}{BP}{END}
+||扉は開かない…{NL}部屋の奥に首のようなものが{NL}置いてあるのが見える。{BP}{END}|I see a statue head behind this{NL}locked gate{ELLIPSIS}{BP}{END}
+||{ITEM:1b}をセットした。{BP}{END}|{ITEM:1b} set.{BP}{END}
+||{ITEM:1a}をセットした。{BP}{END}|{ITEM:1a} set.{BP}{END}
+0x26b01c|7|扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||ん？{NL}この壁何か変だぞ…{BP}{END}|An odd wall{ELLIPSIS}{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||扉が開かなくなってしまった…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+0x2850f4|10|スイッチを押してみたけど、{NL}何も起こらない…{BP}{END}|Pressing the switch did nothing{ELLIPSIS}{BP}{END}
+||スイッチを押してみたけど、{NL}何も起こらない…{BP}{END}|Pressing the switch did nothing{ELLIPSIS}{BP}{END}
+||落石で入口がふさがれている…{BP}{END}|The path is blocked by a{NL}rockslide{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||配電盤だ。{NL}ヒューズが抜かれていて電気が{NL}通っていないようだ…{BP}{END}|This panel needs a fuse{ELLIPSIS}{BP}{END}
+||配電盤だ。{NL}ヒューズがセットされたので電気が{NL}通ったようだ…{BP}{END}|The panel works now.{BP}{END}
+||配電盤だ。{NL}ヒューズが抜かれていて電気が{NL}通っていないようだ…{BP}{END}|This panel needs a fuse{ELLIPSIS}{BP}{END}
+||配電盤だ。{NL}ヒューズがセットされたので電気が{NL}通ったようだ…{BP}{END}|The panel works now.{BP}{END}
+||扉は開かない…{NL}何とかして扉を開けられないかな？{BP}{END}|The door is closed{ELLIPSIS} Is there a{NL}way to open it?{BP}{END}
+||{COLOUR:WHITE}{END}|{COLOUR:WHITE}{END}
+0x29e168|28|{COLOUR:WHITE}　　　　　危ない！！{END}|{COLOUR:WHITE}Watch out!{END}
+||{f5}　　　　助かったぁ…{NL}　　　　ありがとう竜さん{END}|{f5}Phew{ELLIPSIS}{NL}Thank you, Mr. Dragon.{END}
+||{f5}　　おとなしくしていろって、{NL}　　クイントに言われただろ？{END}|{f5}Didn't Quint ask you to behave?{END}
+||{f5}　　あれ、クイントさんは？{END}|{f5}Where is he?{END}
+||{f5}　　クイントは、グディア族に{NL}　　捕まってしまった{END}|{f5}The Gudians captured him.{END}
+||{f5}私達はね、カーラという娘を助けに{NL}来たケルファー族の戦士なんだ{END}|{f5}We are Kelferi warriors. We cameto rescue a girl named Carla.{END}
+||{f5}　　　　　　せんし？{END}|{f5}Warriors?{END}
+||{f5}グディア族にカーラの持つ強い魔力{NL}を悪用させないために戦っている{END}|{f5}We have to stop the Gudians{NL}from misusing Carla's magic.{END}
+||{f5}　カーラをさらったグディア族を{NL}　追って、ここまできたんだが一{END}|{f5}We came here chasing her{NL}captors.{END}
+||{f5}　一なぜだか、急にサイレンが{NL}　　鳴り出してね…{END}|{f5}But an alarm suddenly went off{ELLIPSIS}{END}
+||{f5}　　　　　それって…{END}|{f5}The alarm{ELLIPSIS}{END}
+||{f5}　　　私の大きな体では、{NL}　　　これ以上は進めない…{END}|{f5}I'm too large to go in there{ELLIPSIS}{END}
+||{f5}　　　…ご、ごめんなさい！{END}|{f5}It's my fault!{END}
+||{f5}　　　一そうか、{NL}　　　　まぁ仕方がないさ{END}|{f5}It is what it is.{END}
+||{f5}　　何とかして、クイントを{NL}　　助け出すよ{END}|{f5}I'll rescue Quint!{END}
+||{f5}　　クイントさんは、どこに{NL}　　捕まっているの？{END}|{f5}Where is he?{END}
+||{f5}　　　恐らく、この奥にある{NL}　　　地下牢だろう…{END}|{f5}Probably in the jail up ahead{ELLIPSIS}{END}
+||{f5}　　　　　僕が行くよ{END}|{f5}I'll go.{END}
+||{f5}　　　　　　　…{END}|{f5}{ELLIPSIS}{END}
+||{f5}　僕がおとなしくしていなかった{NL}　のが悪いんだし…{END}|{f5}It's my fault for misbehaving{ELLIPSIS}{END}
+||{f5}　　　…君には危険すぎる{END}|{f5}It's too dangerous for you{ELLIPSIS}{END}
+||{f5}　でも、僕でないと地下牢まで{NL}　行けないでしょ？{END}|{f5}But you can't get through,{NL}right?{END}
+||{f5}　　　　　　……{END}|{f5}{ELLIPSIS}{END}
+||{f5}　　　　　　ねっ、{END}|{f5}Right{ELLIPSIS}{END}
+||{f5}　　　…くれぐれも、{NL}　　　　気をつけるんだぞ{END}|{f5}Please, be careful{ELLIPSIS}{END}
+||{f5}　　　じゃ、行ってくるね、{NL}　　　竜さん{END}|{f5}OK, I'm off, Mr. Dragon.{END}
+||{f5}　　　エドルと呼んでくれ{END}|{f5}The name's Edol.{END}
+||{f5}　　　わかった、エドルさん{END}|{f5}Got it, Mr. Edol.{END}
+0x2b4f9c|1|だみー{BP}{END}|N/A{BP}{END}
+0x2caebc|2|壁に{ITEM:1c}がセットされている。{BP}{END}|Some {ITEM:1c}{COLOUR:BLUE}s{COLOUR:WHITE}.{BP}{END}
+||{ITEM:ff}を３つ手に入れた！{BP}{END}|Found 3 {ITEM:ff}{COLOUR:BLUE}s{COLOUR:WHITE}!{BP}{END}
+0x2e5a14|48|扉は電子ロックが作動して{NL}いるので開かない…{BP}{f5}おじさんは眠ってしまった{NL}ようだ…{BP}{f5}この先の地下水脈にあるという{NL}エネルギー中継所へ行こう！{BP}{END}|The door is closed by an{NL}electronic lock{ELLIPSIS}{BP}{f5}I think Pops is asleep{ELLIPSIS}{BP}{f5}I'll go to the power plant past{NL}the sewers!{BP}{END}
+||扉は電子ロックが作動して{NL}いるので開かない…{BP}{END}|The door is closed by an{NL}electronic lock{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||大きな石像だ。{NL}首が無い…{BP}{END}|It's a huge headless stone{NL}statue{ELLIPSIS}{BP}{END}
+||大きな石像だ。{BP}{END}|It's a huge stone statue.{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||扉が開かなくなってしまった…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can take the{NL}item!{BP}{END}
+||{COLOUR:WHITE}　　　　　おじさん！{END}|{COLOUR:WHITE}Pops!{END}
+||{f5}　　…おじさんじゃねえ、{NL}　　　クイントだ！{END}|{f5}"Pops"?! My name is Quint!{END}
+||{f5}　　ごめんねクイントさん、{NL}　　僕のせいで…{END}|{f5}This was my fault{ELLIPSIS}{END}
+||{f5}　　　話はエドルに聞いたよ{END}|{f5}It's OK, kid.{END}
+||{f5}　　　まっ、そんなに気に{NL}　　　すんなって、ボーズ{END}|{f5}Edol told me what happened.{END}
+||{f5}　どうやってエドルさんに！？{END}|{f5}You spoke to Edol?{END}
+||{f5}　　　　　　　ん？{END}|{f5}How?!{END}
+||{f5}　　　よーし、ボーズにいい{NL}　　　ものを見せてやろう{END}|{f5}I'll show you something cool.{END}
+||{f5}　　　　　　　ほーら、{END}|{f5}See?{END}
+||{f5}　透き通った石には、不思議な{NL}　力があるんだ{END}|{f5}This gem has mysterious powers.{END}
+||{f5}　　　　わぁ、{NL}　　　　これ、きれいだね{END}|{f5}So pretty{ELLIPSIS}{END}
+||{f5}　　この石があれば、遠くの{NL}　　人と話が出来るんだ{END}|{f5}I can talk to people far away{NL}with it.{END}
+||{f5}　　　ボーズも１つ持っとけ{END}|{f5}You can have it, kid.{END}
+||{f5}　　　　　いいの！？{END}|{f5}Really?!{END}
+||{f5}　　　　ああ、お前はもう{NL}　　　　俺達の仲間だ{END}|{f5}You're one of us now!{END}
+||{f5}　　　　　ありがとう{END}|{f5}Thank you!{END}
+||{f5}　俺達は、こういう石のことを{NL}　クリスタルって呼んでる{END}|{f5}We call them crystals.{END}
+||{f5}　　他にも色んな力を持った{NL}　　クリスタルがあるんだ{END}|{f5}Others have different powers.{END}
+||{f5}体をいやすもの、雨をふらすもの、{NL}よい力をあたえるもの一{END}|{f5}Some heal your body, bring rain,{NL}or emit energy.{END}
+||{f5}　　一そして、{NL}　　　悪い力をあたえるもの{END}|{f5}But others are evil.{END}
+||{f5}　　　　　　悪い力？{END}|{f5}Evil?{END}
+||{f5}ああ、グディア族は、クリスタルの{NL}力とカーラの力を使って一{END}|{f5}The Gudians are using the power{NL}of Carla and the crystals{ELLIPSIS}{END}
+||{f5}　一人間を焼き払い、この世界を{NL}　　支配しようとしてるんだ{END}|{f5}{ELLIPSIS}to defeat humanity and conquer{NL}the world.{END}
+||{f5}　だが、ボーズが仲間に入った{NL}　以上、恐いモンなしだ{END}|{f5}But now that you joined us, kid,we'll win!{END}
+||{f5}　　　　　早くここから{NL}　　　　　出してくれよ{END}|{f5}Get me out of here, quick.{END}
+||{f5}　　　　　　　うん{END}|{f5}Sure.{END}
+||{f5}　　　でも、{NL}　　　どうすればいいの？{END}|{f5}What do I do?{END}
+||{f5}この牢獄にエネルギーを送っている{NL}中継機が、この先の地下水脈にある{END}|{f5}The jail's power plant is past{NL}the sewers ahead.{END}
+||{f5}　　　　それを、{NL}　　　　破壊してきてくれ{END}|{f5}Destroy it.{END}
+||{f5}　　　　　わかった{END}|{f5}Got it!{END}
+||{f5}　　　　カーラもこの先に{NL}　　　　いるはすだ{END}|{f5}Carla's there.{END}
+||{f5}　　もし会ったら、よろしく{NL}　　言っといてくれ{END}|{f5}Say hello to her from me!{END}
+||{f5}お前だけが頼りだ、くれぐれも、{NL}慎重に行動しろよ{END}|{f5}You're our only hope, so take{NL}care.{END}
+||{f5}　　　　　　　うん{END}|{f5}Sure.{END}
+||{f5}　　えーっと、地下水脈の…{END}|{f5}The sewers{ELLIPSIS}{END}
+||{f5}　　　　　　中継機！{END}|{f5}Let's go!{END}
+0x2ff4b8|47|ここに置いてあったアイドルは{NL}もう手に入れたぞ。{BP}{END}|I already got the idol.{BP}{END}
+||アイドルが置いてあるけど、{NL}５つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 5 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}４つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 4 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}３つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 3 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}２つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 2 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}バリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}消すことができるぞ。{BP}{END}|The idol is behind one last{NL}seal{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift it.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||大きな石像だ。{BP}{END}|A huge stone statue.{BP}{END}
+||気を失なっている間に、ここに{NL}運び込まれたようだ…{BP}{END}|I was taken here unconscious{ELLIPSIS}{BP}{END}
+||扉が開かなくなってしまった…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||{ITEM:3c}を使った！{NL}１つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 1 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}２つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 2 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}３つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 3 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}４つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 4 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}バリアが全部解けてアイドルを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:3c}!{NL}Last seal lifted, you can get{NL}the idol!{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+||{COLOUR:WHITE}{END}|{COLOUR:WHITE}{END}
+||{COLOUR:WHITE}　　　偉大なるグディア様{END}|{COLOUR:WHITE}Lord Gudia.{END}
+||{f5}　　　　　　…何だ{END}|{f5}What{ELLIPSIS}?{END}
+||{f5}おおせの通り、ケルファーの娘を{NL}塔に移しました{END}|{f5}We locked the Kelferi girl in{NL}the tower as instructed.{END}
+||{f5}　　ケルファーの戦士どもは{NL}　　どうした？{END}|{f5}What about the Kelferi warriors?{END}
+||{f5}　　　仲間の子供に呪いを{NL}　　　かけました{END}|{f5}I placed a curse on the child.{END}
+||{f5}　　あの子供が獣となって一{END}|{f5}He will turn into a demon soon{ELLIPSIS}{END}
+||{f5}　一ケルファーの戦士を始末する{NL}　　のも、時間の問題かと…{END}|{f5}{ELLIPSIS} and eliminate the other{NL}warriors.{END}
+||{f5}　　　　　ならいい…{END}|{f5}Good{ELLIPSIS}{END}
+||{f5}　　　塔の警戒を強めておけ{END}|{f5}Reinforce the tower's security.{END}
+||{f5}　　　失敗は許されんぞ、{NL}　　　ファリデス…{END}|{f5}Failure will not be tolerated,{NL}Farides{ELLIPSIS}{END}
+||{COLOUR:WHITE}　　　　　　ボーズ！{END}|{COLOUR:WHITE}Kid!{END}
+||{f5}　　　　クイントさん！{END}|{f5}Mr. Quint!{END}
+||{f5}　心配したぜ、なかなかボーズと{NL}　つながらなくてよぉ一{END}|{f5}I got worried when I couldn't{NL}reach you.{END}
+||{f5}　　　一大丈夫だったか？{END}|{f5}Are you OK?{END}
+||{f5}　　　　クイントさん…{END}|{f5}Mr. Quint{ELLIPSIS}{END}
+||{f5}　ありがとよ、ボーズのおかげで{NL}　無事、牢から出られたぜ{END}|{f5}I escaped thanks to you.{END}
+||{f5}　　　　　　……{END}|{f5}{ELLIPSIS}{END}
+||{f5}　　　　どうかしたのか？{END}|{f5}What's wrong?{END}
+||{f5}　　　　…何でもない{END}|{f5}Nothing{ELLIPSIS}{END}
+||{f5}　　　　そうか？{NL}　　　　ならいいんだが…{END}|{f5}Are you sure? OK, then{ELLIPSIS}{END}
+||{f5}　　　クイントさん、{NL}　　　今、どこにいるの？{END}|{f5}Where are you now, Mr. Quint?{END}
+||{COLOUR:WHITE}　さっき、クイントさんがいた{NL}　牢のあたり{END}|{COLOUR:WHITE}In the jail.{END}
+||{f5}　　　じゃあ、カーラのいる{NL}　　　牢まで来てくれ{END}|{f5}I'm on my way to Carla's cell.{END}
+||{f5}　　　　そこで落ち合おう{END}|{f5}Meet me there.{END}
+||{f5}　　　　　　わかった{END}|{f5}Got it.{END}
+||{f5}　　　じゃ、待ってるぜ！{END}|{f5}I'll be waiting!{END}
+0x313950|6|グディア族の女性の死体だ…{NL}胸にくいが打ち込まれている。{NL}誰がこんなひどいことをしたの{NL}だろう…{BP}{END}|A dead Gudian woman, staked on atable{ELLIPSIS} Who would do this?{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||ん？{NL}今向こうの部屋で何か音が{NL}したようだ…{BP}{END}|I heard something in the {NL}next room{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||青白い炎が燃えている。{NL}清らかな光をはなつ{NL}不思議な炎だ…{BP}{END}|A mysterious blue flame that{NL}emits a pure light{ELLIPSIS}{BP}{END}
+0x333b54|12|扉は電子ロックが作動して{NL}いるので開かない…{BP}{f5}カーラは疲れ切っているようだ…{NL}先を急ごう！{BP}{END}|The door is closed by an{NL}electronic lock{ELLIPSIS}{BP}{f5}Carla looks bad, I have to{NL}hurry!{BP}{END}
+||扉は電子ロックが作動して{NL}いるので開かない…{BP}{END}|The door is closed by an{NL}electronic lock{ELLIPSIS}{BP}{END}
+||{COLOUR:WHITE}　　　　君、大丈夫！？{END}|{COLOUR:WHITE}Are you OK?{END}
+||{f5}　　　　…お願いです、{NL}　　　　　助けて下さい{END}|{f5}Please{ELLIPSIS} help me.{END}
+||{f5}　グディアは、私の力を利用して{NL}　恐ろしい事を企んでいるの…{END}|{f5}Gudia seeks my power for evil{ELLIPSIS}{END}
+||{f5}　　　　　話は聞いたよ{END}|{f5}I know.{END}
+||{f5}ごめんね、僕のせいでクイントさん{NL}捕まっちゃったんだ{END}|{f5}I'm sorry, it's my fault Quint{NL}got captured.{END}
+||{f5}　　でも、僕がクイントさんを{NL}　　助け出して一{END}|{f5}But I'll rescue him.{END}
+||{f5}　　　一絶対、君も助けに{NL}　　　　来るからね{END}|{f5}He'll come help you too!{END}
+||{f5}　　…ありがとう　カーラって{NL}　　　呼んで下さい{END}|{f5}Thank you{ELLIPSIS} I'm Carla.{END}
+||{f5}　　わかった、もうちょっと{NL}　　がんばっててね、カーラ{END}|{f5}Hang in there, Carla.{END}
+||{f5}　　　　　　はい…{END}|{f5}Yes{ELLIPSIS}{END}
+0x350a90|43|時間がないぞ、おじさんの後を{NL}追おう！{BP}{END}|There's no time, I must follow{NL}Pops!{BP}{END}
+||カーラが捕らえられていた牢獄だ。{NL}もうここには何もないようだ。{BP}{END}|The cell where Carla was held.{NL}There's nothing left.{BP}{END}
+||扉が開かなくなってしまった…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||空気を取り入れるためのダクトだ。{NL}ダクトはもろくなっているようだ。{NL}何とかして壊せないかな？{BP}{END}|This grate seems fragile. Maybe{NL}I can break it?{BP}{END}
+||{COLOUR:WHITE}　　　遅かったじゃないか{END}|{COLOUR:WHITE}You're late.{END}
+||{f5}　　　　　　　…{END}|{f5}{ELLIPSIS}{END}
+||{f5}　　　　どうしたんだ？{END}|{f5}What's wrong?{END}
+||{f5}　　ボーズが、獣化の呪いを{NL}　　かけられた…{END}|{f5}They put a demon curse on the{NL}kid{ELLIPSIS}{END}
+||{f5}　　…大丈夫だよ　あの子は{NL}　　　強い心を持ってる{END}|{f5}It'll be alright{ELLIPSIS} He's tough.{END}
+||{f5}　どうした、お前らしくないぞ{NL}　クイント　さあ、塔へ急ごう{END}|{f5}It's not like you to sulk. Let'shurry to the tower!{END}
+||{f5}　　俺は、空から行く{NL}　　お前はこの先へ進んでくれ{END}|{f5}I'll go from above. You go{NL}ahead!{END}
+||{f5}　ちぇっ、いつもお前ばっかり{NL}　楽しやがって{END}|{f5}You always have all the fun{ELLIPSIS}{END}
+||{f5}　　　　じゃあ、{NL}　　　　お前が飛ぶか？{END}|{f5}Well, can you fly?{END}
+||{COLOUR:WHITE}　　　　　　　？{END}|{COLOUR:WHITE}?{END}
+||{f5}　　　　お願い、{NL}　　　　勇気を持って…{END}|{f5}Be brave{ELLIPSIS}{END}
+||{f5}　　　　　　カーラ！{END}|{f5}Carla!{END}
+||{f5}　グディアの企みを、決して{NL}　現実のものにしてはいけないの{END}|{f5}You must defeat Gudia!{END}
+||{f5}　今の私に出来る賭一杯の力で{NL}　呪いの力を押さえ込みました{END}|{f5}I weakened the curse with my{NL}remaining power.{END}
+||{f5}　　彼らは、この先にたくさんの{NL}　　罠をはっています{END}|{f5}There's traps ahead.{END}
+||{f5}　このままでは、クイントさんも{NL}　やられてしまいます{END}|{f5}At this rate, Quin't won't last{NL}long{ELLIPSIS}{END}
+||{f5}　　　　お願い、あなたが{NL}　　　　頼りなのです{END}|{f5}You're our last hope!{END}
+||{COLOUR:WHITE}　今、カーラが捕らえられている{NL}　牢に向かっている途中だ{END}|{COLOUR:WHITE}On my way to Carla's cell.{END}
+||{f5}　　お前は、どこにいるんだ？{END}|{f5}And you?{END}
+||{COLOUR:WHITE}　　　　クイントさん、{NL}　　　　カーラは？{END}|{COLOUR:WHITE}Where's Carla?{END}
+||{f5}　　一足遅かったようだ…{END}|{f5}I was too late{ELLIPSIS}{END}
+||{f5}　　　どうした、ボーズ！？{END}|{f5}What's wrong?{END}
+||{f5}　　　　ボーズ、一体何が{NL}　　　　あったんだ？{END}|{f5}What happened, kid?{END}
+||{f5}　　　　　　そうか…{END}|{f5}I see{ELLIPSIS}{END}
+||{f5}　　　　僕、怪物に{NL}　　　　なっちゃうの？{END}|{f5}Will I turn into a demon?{END}
+||{f5}　　　それは、お前次第だな{END}|{f5}It's up to you.{END}
+||{f5}　　　　　　僕次第？{END}|{f5}To me?!{END}
+||{f5}　お前の中に、悪と戦う強い心が{NL}　あれば、運命も変えられる{END}|{f5}If your heart is strong enough{NL}to fight evil, you'll be fine.{END}
+||{f5}　　でも、僕は夢で見たんだ！{END}|{f5}But I had a dream!{END}
+||{f5}このキズのせいで、怪物になって、{NL}みんなをひどい目に…{END}|{f5}I turned into a demon and hurt{NL}everyone{ELLIPSIS}{END}
+||{f5}　　　　きっと僕、{NL}　　　　ああなるんだ…{END}|{f5}It's fate{ELLIPSIS}{END}
+||{f5}　　　　　そうだな…{END}|{f5}Humph{ELLIPSIS}{END}
+||{f5}　　そんな弱気じゃ、運命に{NL}　　従うしかないな{END}|{f5}With that attitude, you're{NL}doomed.{END}
+||{f5}　　　　　　　…{END}|{f5}{ELLIPSIS}{END}
+||{f5}　　　　もう時間がない{END}|{f5}There's no time.{END}
+||{f5}　　　　俺は、運命と戦う{END}|{f5}I choose to fight.{END}
+||{f5}　　　ボーズ、よく考えろ{END}|{f5}Choose carefully, kid.{END}
+||{f5}　お前自身が強くならなきゃ、{NL}　何も変わらない{END}|{f5}Nothing will change unless you{NL}fight.{END}
+||{f5}　　　じゃ、先に行くぜ！{END}|{f5}Nice chat. I'll go on ahead!{END}
+0x3660a4|1|扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+0x37e3d0|1|だみー{BP}{END}|N/A{BP}{END}
+0x38f5fc|1|だみー{BP}{END}|N/A{BP}{END}
+0x3a1640|2|燭台だ。{NL}炎がメラメラと燃えている…{BP}{END}|It's a bright torch{ELLIPSIS}{BP}{END}
+||燭台だ。{NL}炎が消えると扉が開く{NL}仕組みになっていたようだ…{BP}{END}|The torch opened a door when putout.{BP}{END}
+0x3b820c|13|{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||燭台だ。{NL}炎がメラメラと燃えている…{BP}{END}|It's a bright torch{ELLIPSIS}{BP}{END}
+||燭台だ。{NL}炎が消えると扉が開く{NL}仕組みになっていたようだ…{BP}{END}|The torch opened a door when putout.{BP}{END}
+||燭台だ。{NL}炎がメラメラと燃えている…{BP}{END}|It's a bright torch{ELLIPSIS}{BP}{END}
+||燭台だ。{NL}炎が消えると橋が動く{NL}仕組みになっていたようだ…{BP}{END}|The torch moved a bridge when{NL}put out.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+0x3d5358|8|扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||『バッテリー保管庫』{NL}ここにはトロッコのスピード{NL}アップ用に開発されたバッテリーが{NL}保管されています。{BP}{END}|"Battery Room"{NL}Minecart batteries are stored{NL}here.{BP}{END}
+||『トロッコ利用時の注意』{NL}トロッコの通行ルートの中に一部{NL}レールが完成していないかしょが{NL}あり、大変危険です。{BP}{f5}標識をよく見て通行して下さい。{BP}{END}|WARNING!{NL}Rail sections ahead are missing.{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+0x3f2304|8|扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||『バッテリー保管庫』{NL}ここにはトロッコのスピード{NL}アップ用に開発されたバッテリーが{NL}保管されています。{BP}{END}|"Battery Room"{NL}Minecart batteries are stored{NL}here.{BP}{END}
+||『トロッコ利用時の注意』{NL}トロッコの通行ルートの中に一部{NL}レールが完成していないかしょが{NL}あり、大変危険です。{BP}{f5}標識をよく見て通行して下さい。{BP}{END}|WARNING!{NL}Rail sections ahead are missing.{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+0x4101c4|7|爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||危ないからトロッコの前に{NL}置いてあるものをどかそう…{BP}{END}|It's risky, I'll move what's in{NL}front{ELLIPSIS}{BP}{END}
+||危ないからトロッコのまわりに{NL}置いてあるものをどかそう…{BP}{END}|It's risky, I'll move what's{NL}around{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||バッテリーをセットする所の{NL}ようだ。{BP}{END}|It's the battery slot.{BP}{END}
+||『トロッコ利用時の注意』{NL}トロッコの通行ルートの中に一部{NL}レールが完成していないかしょが{NL}あり、大変危険です。{BP}{f5}標識をよく見て通行して下さい。{BP}{END}|WARNING!{NL}Rail sections ahead are missing.{BP}{END}
+0x42f83c|7|爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||危ないからトロッコの前に{NL}置いてあるものをどかそう…{BP}{END}|It's risky, I'll move what's in{NL}front{ELLIPSIS}{BP}{END}
+||危ないからトロッコのまわりに{NL}置いてあるものをどかそう…{BP}{END}|It's risky, I'll move what's{NL}around{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||バッテリーをセットする所の{NL}ようだ。{BP}{END}|It's the battery slot.{BP}{END}
+||『トロッコ利用時の注意』{NL}トロッコの通行ルートの中に一部{NL}レールが完成していないかしょが{NL}あり、大変危険です。{BP}{f5}標識をよく見て通行して下さい。{BP}{END}|WARNING!{NL}Rail sections ahead are missing.{BP}{END}
+0x44afb4|1|だみー{BP}{END}|N/A{BP}{END}
+0x465f84|1|だみー{BP}{END}|N/A{BP}{END}
+0x480fd4|1|だみー{BP}{END}|N/A{BP}{END}
+0x49d968|15|爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||ここに置いてあったアイドルは{NL}もう手に入れたぞ。{BP}{END}|I already got the idol.{BP}{END}
+||アイドルが置いてあるけど、{NL}５つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 5 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}４つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 4 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}３つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 3 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}２つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 2 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}バリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}消すことができるぞ。{BP}{END}|The idol is behind one last{NL}seal{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift it.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:3c}を使った！{NL}１つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 1 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}２つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 2 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}３つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 3 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}４つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 4 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}バリアが全部解けてアイドルを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:3c}!{NL}Last seal lifted, you can get{NL}the idol!{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x4b9390|3|爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x4d0dfc|6|爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||壁に風景画がかけてある。{NL}ん？{NL}どこかで見たような風景だな…{BP}{END}|This mural rings a bell{ELLIPSIS}{BP}{END}
+||壁の風景画が変わった。{NL}滝壺に何かが現れたようだ…{BP}{END}|The mural changed, there's{NL}something in the pool now{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||ん？{NL}この壁何か変だぞ…{BP}{END}|An odd wall{ELLIPSIS}{BP}{END}
+0x4e6074|5|かんばんに{NL}『エネルギー中継所』と、{NL}書いてある。{BP}{f5}ここにクイントさんが言っていた{NL}牢獄にエネルギーを送っている{NL}中継機があるに違いない。{BP}{END}|"Power Plant"{BP}{f5}Quint said something here powersthe jail.{BP}{END}
+||爆弾があるので、危なくて{NL}トロッコを動かすことが{NL}できない…{BP}{END}|A bomb! I can't move the cart{ELLIPSIS}{BP}{END}
+||危ないからトロッコの上に{NL}のっているものをどかそう…{BP}{END}|It's risky, I'll move what's on top{ELLIPSIS}{BP}{END}
+||扉に何かをはめ込むための{NL}くぼみがある。{NL}扉は開かない…{BP}{END}|It's locked, but there's a slot{ELLIPSIS}{BP}{END}
+||『エネルギー中継所』{BP}{END}|"Power Plant"{BP}{END}
+0x4fe5c8|5|これがエネルギー中継機か…{BP}{END}|A generator{ELLIPSIS}{BP}{END}
+||扉に何かをはめ込むための{NL}くぼみがある。{NL}扉は開かない…{BP}{END}|It's locked, but there's a slot{ELLIPSIS}{BP}{END}
+||何かの部品だろうか？{NL}大きなうでやあしにも見える…{BP}{END}|A spare part? It resembles a bigarm{ELLIPSIS}{BP}{END}
+||これはサーペントの壁画だ。{NL}グディア族は恐ろしい怪物を{NL}呼び出そうとしている…{BP}{END}|A mural of the snake the Gudiansare trying to summon{ELLIPSIS}{BP}{END}
+||{COLOUR:WHITE}　　　　　　　！{END}|{COLOUR:WHITE}!{END}
+0x50d348|4|命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+0x51c860|1|溶岩が流れ出ている。{NL}すごく熱い…{BP}{END}|The lava is too hot!{BP}{END}
+0x5293d4|15|シャッターの向こうにレリーフが{NL}置いてある。{NL}シャッターは開かない…{BP}{END}|There's a carving behind the{NL}shutter, but it won't open{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||ここに置いてあったアイドルは{NL}もう手に入れたぞ。{BP}{END}|I already got the idol.{BP}{END}
+||アイドルが置いてあるけど、{NL}５つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 5 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}４つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 4 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}３つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 3 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}２つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 2 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}バリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}消すことができるぞ。{BP}{END}|The idol is behind one last{NL}seal{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift it.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||ここにある箱失いし時は、{NL}再びここを訪れるがよい。{BP}{END}|Return here if you lose the box.{BP}{END}
+||{ITEM:3c}を使った！{NL}１つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 1 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}２つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 2 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}３つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 3 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}４つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 4 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}バリアが全部解けてアイドルを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:3c}!{NL}Last seal lifted, you can get{NL}the idol!{BP}{END}
+0x53fbfc|3|{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+0x55de60|5|リフトのコントロールパネルだ。{NL}基板が抜き取られているので、{NL}動かせないようだ…{BP}{END}|The cable car control needs a{NL}circuit{ELLIPSIS}{BP}{END}
+||リフトのコントロールパネルだ。{BP}{END}|The cable car control.{BP}{END}
+||ん？{NL}こちらのリフトは動かないようだ…{BP}{END}|The cable car doesn't work{ELLIPSIS}{BP}{END}
+||下の黒き箱失いし時は、{NL}再びここを訪れるがよい。{BP}{END}|Return here if you lose the box.{BP}{END}
+||『注意！』{NL}ルート上に壊れたリフトがあり、{NL}通行できないので、神殿行きの{NL}ルートは廃止されました。{BP}{END}|NOTICE{NL}Cable car broken, road to templeis closed.{BP}{END}
+0x572e64|3|{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+0x58dec4|6|シャッターの向こうにレリーフが{NL}置いてある。{NL}シャッターは開かない…{BP}{END}|There's a carving behind the{NL}shutter, but it won't open{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||『緊急用シールド保管庫』{BP}{END}|"Shield Storage"{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|Locked{ELLIPSIS}{BP}{END}
+||下の白き箱失いし時は、{NL}再びここを訪れるがよい。{BP}{END}|Return here if you lose the box.{BP}{END}
+||ん？{NL}この壁何か変だぞ…{BP}{END}|An odd wall{ELLIPSIS}{BP}{END}
+0x59fb5c|12|扉に何かをはめ込むための{NL}くぼみが２つある。{NL}扉は開かない…{BP}{END}|It's a locked door with two{NL}recesses{ELLIPSIS}{BP}{END}
+||青年のレリーフが{NL}セットされている。{BP}{END}|A relief of a young man.{BP}{END}
+||乙女のレリーフが{NL}セットされている。{BP}{END}|A relief of a maid.{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||大きなパイプオルガンだ…{BP}{END}|It's a huge pipe organ{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{NL}中に命の水を入れて持ち運ぶ{NL}ことができるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use it to store life water.{BP}{END}
+||はまらない…{BP}{END}|It doesn't fit{ELLIPSIS}{BP}{END}
+||はまらない…{BP}{END}|It doesn't fit{ELLIPSIS}{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+0x5b7920|22|これは日食の経過を調べる{NL}機械のようだ…{BP}{END}|This seems to be for tracking a{NL}solar eclipse{ELLIPSIS}{BP}{END}
+||おじさんは気を失ってしまった{NL}ようだ…{NL}先を急ごう！{BP}{END}|I think Pops fainted, I need{NL}to hurry!{BP}{END}
+||おじさんがいない…{NL}心配だけど時間がない。{NL}先を急ごう！{BP}{END}|Pops is gone{ELLIPSIS} I'm worried, but Ineed to go on!{BP}{END}
+||{COLOUR:WHITE}　　　　クイントさん！！{END}|{COLOUR:WHITE}Mr. Quint!{END}
+||{f5}　　　　ボーズ、{NL}　　　　やっと来たか…{END}|{f5}You made it, kid{ELLIPSIS}{END}
+||{f5}　　　　　大丈夫！？{END}|{f5}Are you OK?!{END}
+||{f5}　　　大丈夫…と、言いたい{NL}　　　ところだが…{END}|{f5}I wish, but{ELLIPSIS}{END}
+||{f5}　　　　しっかりしてよ！{END}|{f5}Hang in there!{END}
+||{f5}　　　　ボーズ、よく聞け{NL}　　　　…俺はもうダメだ{END}|{f5}Listen, kid{ELLIPSIS} I'm done for.{END}
+||{f5}　俺の代わりに…やつらの企みを{NL}　阻止してくれ…{END}|{f5}Stop them for me{ELLIPSIS}{END}
+||{f5}　　　　何言ってんだよ！{END}|{f5}Don't say that!{END}
+||{f5}　僕はボーズかもしれないけど{NL}　ここまでやってきた{END}|{f5}I'm just a kid and I made it{NL}this far{ELLIPSIS}{END}
+||{f5}　　　　　おじさんは{NL}　　　　　戦士でしょ！{END}|{f5}But you're a warrior, Pops!{END}
+||{f5}　　　　　…そうだな{END}|{f5}Yeah{ELLIPSIS}{END}
+||{f5}　しばらく休んだら、お前の後を{NL}　追っていく{END}|{f5}Let me rest a bit and I'll{NL}follow you.{END}
+||{f5}　　　　　　さぁ、{END}|{f5}Now{ELLIPSIS}{END}
+||{f5}　　　　　　行け！{END}|{f5}Go!{END}
+||{f5}　　　うん、きっとだよ{END}|{f5}Yeah!{END}
+||{f5}　　　　　　ボーズ！{END}|{f5}Kid!{END}
+||{f5}　　　気をつけて行けよ…{END}|{f5}Take care{ELLIPSIS}{END}
+||{f5}　　　　　おじさんもね{END}|{f5}You too, Pops.{END}
+||{f5}　　　おじさんじゃねぇ、{NL}　　　クイントだ…{END}|{f5}No, not Pops{ELLIPSIS} Quint.{END}
+0x5d72b0|56|{COLOUR:WHITE}　　　　　ダレダァ！{END}|{COLOUR:WHITE}Who's there?!{END}
+||{f5}　　　　　　　！{END}|{f5}!{END}
+||{f5}　　　　どうしたボーズ{END}|{f5}What is it, kid?{END}
+||{f5}　おどろいて、声も出ねぇか？{END}|{f5}Cat got your tongue?{END}
+||{f5}　　あいかわらずやることが{NL}　　ハデだなぁ、エドル{END}|{f5}Always so flashy, Edol.{END}
+||{f5}　　　何言ってるんだい、{NL}　　　クイント{END}|{f5}What do you mean?{END}
+||{f5}　お前がやってたら、グディアの{NL}　所までひびきわたってるよ{END}|{f5}Even Gudia must have heard you!{END}
+||{f5}そうか、やつらここで日食の時期を{NL}計算してたって訳か…{END}|{f5}So that's how they timed the{NL}solar eclipse{ELLIPSIS}{END}
+||{f5}　　さあ、行くぞ　ここで油を{NL}　　売っているヒマはない{END}|{f5}Let's go, there's no time to{NL}waste.{END}
+||{f5}　　おいボーズ、{NL}　　ここで何をしてたんだ？{END}|{f5}What are you doing here, kid?{END}
+||{f5}　　僕、気がついたらここに{NL}　　迷い込んじゃって…{END}|{f5}I ended up here by accident{ELLIPSIS}{END}
+||{f5}　この先は危険だ、連れていく{NL}　訳にはいかない{END}|{f5}You can't go further, it's{NL}risky.{END}
+||{f5}　　　ボウヤはここに隠れて{NL}　　　いなさい{END}|{f5}Hide in here, boy.{END}
+||{f5}　　エドルの言うことは聞いて{NL}　　おいた方がいいぞ、{END}|{f5}Do what he says, kid{ELLIPSIS}{END}
+||{f5}　　　でなきゃ、ガブッと{NL}　　　食われちまう{END}|{f5}or he'll eat you!{END}
+||{f5}　　　　　クイント！{END}|{f5}Quint!{END}
+||{f5}　　なぁ、おっかないだろ？{END}|{f5}Scary, huh?{END}
+||{f5}　　だから言うことを聞いて{NL}　　ここに隠れてろ{END}|{f5}Do as I say. Hide in here.{END}
+||{f5}　　用事がすんだら、むかえに{NL}　　来てやるよ{END}|{f5}I'll come back later.{END}
+||{f5}　　…おじさん達、誰なの？{END}|{f5}Who are you guys{ELLIPSIS}?{END}
+||{f5}　　俺達は…ちょっと人捜しを{NL}　　してるんだ{END}|{f5}We are{ELLIPSIS} looking for someone.{END}
+||{f5}　　　日食が迫ってるぞ、{NL}　　　クイント！{END}|{f5}Quint, the eclipse is near!{END}
+||{f5}　　　　じゃあ、ボーズ{NL}　　　　俺達は行くから{END}|{f5}OK, kid. Off we go.{END}
+||{f5}　　ここでおとなしくしてろよ{END}|{f5}Stay here and be quiet.{END}
+||{f5}　　　　ねぇ、おじさん、{NL}　　　　ここは何なの？{END}|{f5}What is this place, Pops?{END}
+||{f5}　　　おじさんじゃねぇ、{NL}　　　クイントだ{END}|{f5}The name's Quint, not "Pops"!{END}
+||{f5}　　　ここは、悪魔の遺跡だ{END}|{f5}These are the Demon Ruins.{END}
+||{f5}　　　　悪魔の、遺跡…？{END}|{f5}The what{ELLIPSIS}?{END}
+||{COLOUR:WHITE}　　　　　ファリデス様{END}|{COLOUR:WHITE}Lord Farides.{END}
+||{f5}　　　　　　何だ…{END}|{f5}What{ELLIPSIS}?{END}
+||{f5}　計算通り、日食は今日の午後に{NL}　始まる見込みです{END}|{f5}The eclipse will begin this{NL}afternoon as predicted.{END}
+||{f5}　　ケルファーの娘もようやく{NL}　　あきらめたとみえて一{END}|{f5}The Kelferi girl has finally{NL}given up.{END}
+||{f5}　一今はおとなしくしています{END}|{f5}She's behaving now.{END}
+||{f5}　　　全ては、グディア様の{NL}　　　お考えの通り、順調に{END}|{f5}All is going according to Lord{NL}Gudia's plan.{END}
+||{f5}　　　　　バカ者！！{END}|{f5}Idiot!{END}
+||{f5}　あの娘が、急におとなしく{NL}　なるのは妙だと思わんのか、{END}|{f5}Don't you find it odd that she'ssuddenly docile?{END}
+||{f5}　　遺跡内の全ての仕掛けを{NL}　　作動させておけ、{END}|{f5}Activate all the traps.{END}
+||{f5}　　　　　　よいな！{END}|{f5}Understood?{END}
+||{f5}　　　　はい、{NL}　　　　ファリデス様…{END}|{f5}Yes, Milord{ELLIPSIS}{END}
+||{COLOUR:WHITE}　　　　　ファリデス様{END}|{COLOUR:WHITE}Lord Farides.{END}
+||{f5}　　　　　　何だ…{END}|{f5}What{ELLIPSIS}?{END}
+||{f5}　　　　　ネズミを一匹{NL}　　　　　捕らえました{END}|{f5}We caught an intruder.{END}
+||{f5}　　　ケルファーの戦士の{NL}　　　ようです{END}|{f5}A Kelferi warrior.{END}
+||{f5}　　　　　　よし…{END}|{f5}Good{ELLIPSIS}{END}
+||{f5}　　まだ他にもいるかもしれん{END}|{f5}There may be more.{END}
+||{f5}　　警戒態勢をゆるめるな！{END}|{f5}Stay alert!{END}
+||{f5}　　　　　　はっ！{END}|{f5}Yes!{END}
+||{COLOUR:WHITE}　　　　　ようこそ、{END}|{COLOUR:WHITE}Welcome{ELLIPSIS}{END}
+||{f5}　　我らがグディア様の神殿へ{END}|{f5}To Lord Gudia's temple.{END}
+||{f5}　まもなく太陽は月におおわれ、{NL}　閣が訪れる…{END}|{f5}Soon the eclipse will begin{ELLIPSIS}{END}
+||{f5}日食が起こる時、ケルファーの娘と{NL}水晶の力に呼ばれたサーペントが一{END}|{f5}We'll summon the snake with the{NL}Kelferi girl and the crystal.{END}
+||{f5}　　一世界を焼きつくすのだ…{END}|{f5}The world will burn{ELLIPSIS}{END}
+||{f5}　　お前の仲間達も死に絶える{NL}　　だろう…{END}|{f5}Your friends will die{ELLIPSIS}{END}
+||{f5}　　だが、お前は死なせるには{NL}　　惜しい…{END}|{f5}But you're too good for that{ELLIPSIS}{END}
+||{f5}　　　我々の仲間になるのだ{END}|{f5}Join us.{END}
+||{f5}　そして、偉大なるグディア様に{NL}　その身をささげるのだ！{END}|{f5}Bow before Lord Gudia!{END}
+0x5ea6b4|1|だみー{BP}{END}|N/A{BP}{END}
+0x5f8f38|1|『注意！』{NL}現在この塔の内部では{NL}サーペントを呼び出すぎしきの{NL}準備中のため、{BP}{f5}関係者以外、立ち入り禁止です。{BP}{END}|NOTICE:{NL}Preparations for the summoning{NL}are underway.{BP}{f5}Authorized personnel only!{BP}{END}
+0x614734|16|扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||扉は開かない…{NL}何とかして扉を開けられないかな？{BP}{END}|The door is closed{ELLIPSIS} Is there a{NL}way to open it?{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||金庫だ。{NL}電子ロックされているので{NL}開かない…{BP}{END}|It's a locked electronic safe{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}ファイル画面で調べてみよう。{BP}{END}|Found {ITEM:ff}!{NL}Check the file screen.{BP}{END}
+||金庫の中はからっぽだ…{BP}{END}|The safe is empty{ELLIPSIS}{BP}{END}
+||『注意！』{NL}現在この塔の内部では{NL}サーペントを呼び出すぎしきの{NL}準備中のため、{BP}{f5}関係者以外、立ち入り禁止です。{BP}{END}|NOTICE:{NL}Preparations for the summoning{NL}are underway.{BP}{f5}Authorized personnel only.{BP}{END}
+||扉は開かない…{NL}何とかして扉を開けられないかな？{BP}{END}|The door is closed{ELLIPSIS} Is there a{NL}way to open it?{BP}{END}
+||『電子ロックを解除します。』{BP}{f5}となりの金庫の電子ロックが{NL}解除されたみたいだぞ！{BP}{END}|"Lock opened."{BP}{f5}The electronic lock on the safe{NL}is open now!{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+||『１１階へのエレベーターの使用を{NL}　許可します。』{NL}{BP}{f5}この石盤で１階から４階、{NL}１１階のエレベーターを使える{NL}ようになったようだ！{BP}{END}|"Card updated."{BP}{f5}Card can now take the lift to{NL}floors 1-4, and 11!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used."{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||『この石盤はここでは使用{NL}　できません。』{NL}{BP}{f5}この石盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use card here."{BP}{f5}It's the wrong card{ELLIPSIS}{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x62b880|14|石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||金庫だ。{NL}電子ロックされているので{NL}開かない…{BP}{END}|It's a locked electronic safe{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}ファイル画面で調べてみよう。{BP}{END}|Found {ITEM:ff}!{NL}Check the file screen.{BP}{END}
+||金庫の中はからっぽだ…{BP}{END}|The safe is empty{ELLIPSIS}{BP}{END}
+||青い扉だ。{NL}扉は開かない…{BP}{END}|A blue door. It's closed{ELLIPSIS}{BP}{END}
+||赤い扉だ。{NL}扉は開かない…{BP}{END}|A red door. It's closed{ELLIPSIS}{BP}{END}
+||黄色い扉だ。{NL}扉は開かない…{BP}{END}|A yellow door. It's closed{ELLIPSIS}{BP}{END}
+||『電子ロックを解除します。』{BP}{f5}となりの金庫の電子ロックが{NL}解除されたみたいだぞ！{BP}{END}|"Lock opened."{BP}{f5}The electronic lock on the safe{NL}is open now!{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+||『１階から４階までのエレベーター{NL}　の使用を許可します。』{NL}{BP}{f5}この石盤で１階から４階まで{NL}エレベーターを使えるように{NL}なったようだ！{BP}{END}|"Card updated."{BP}{f5}Card can now take the lift to{NL}floors 1-4!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used"{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||『この石盤はここでは使用{NL}　できません。』{NL}{BP}{f5}この石盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use card here."{BP}{f5}It's the wrong card{ELLIPSIS}{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x63dcb8|11|『注意！』{NL}解除コードを持たない者の{NL}入室を堅く禁じます。{BP}{END}|WARNING!{NL}No entry without the code.{BP}{END}
+||石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||『電子ロックを解除します。』{BP}{f5}となりの金庫の電子ロックが{NL}解除されたみたいだぞ！{BP}{END}|"Lock opened."{BP}{f5}The electronic lock on the safe{NL}is open now!{BP}{END}
+||『解除コード確認処理を開始{NL}　します。　機密保持のため、{NL}　扉を閉めます。』{BP}{END}|"Verifying code, closing door{NL}for privacy."{BP}{END}
+||『扉を閉めることができません。{NL}　解除コード確認処理を中止{NL}　します。』{BP}{END}|"Door jammed, code verification{NL}aborted."{BP}{END}
+||金庫だ。{NL}電子ロックされているので{NL}開かない…{BP}{END}|It's a locked electronic safe{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||金庫の中はからっぽだ…{BP}{END}|The safe is empty{ELLIPSIS}{BP}{END}
+||『この石盤はここでは使用{NL}　できません。』{NL}{BP}{f5}この石盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use card here."{BP}{f5}It's the wrong card{ELLIPSIS}{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x6584b8|23|命の泉からわき出る{NL}命の水を飲んだ！{BP}{f5}持っていた{ITEM:00}に命の水が{NL}注ぎ込まれた！{BP}{END}|You drank from the life spring!{NL}All {ITEM:00}{COLOUR:BLUE}s{COLOUR:WHITE} filled!{BP}{END}
+||命の泉からわき出る{NL}命の水を飲んだ！{BP}{END}|You drank from the life spring!{BP}{END}
+||命の泉がかれてしまっている。{NL}命の泉からわき出る{NL}命の水を飲めば、{NL}元気がでるのに…{BP}{f5}{ITEM:45}を使えば、命の泉を{NL}利用できるようになるぞ。{BP}{f5}{ITEM:45}はモンスターが{NL}持っている。{BP}{END}|The life spring could heal me ifit wasn't dry{ELLIPSIS}{BP}{f5}Foes drop {ITEM:45}{COLOUR:BLUE}s{COLOUR:WHITE} that fill{NL}springs.{BP}{END}
+||壁に鍵穴がある…{BP}{END}|It's a keyhole{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{f5}カーラが捕らえられている。{NL}早く助けなければ！{BP}{END}|The cell is locked{ELLIPSIS}{BP}{f5}Carla is trapped, I have to{NL}rescue her quickly!{BP}{END}
+||しまった、これは罠だ！{BP}{END}|Darn, a trap!{BP}{END}
+||ここにいたカーラはニセモノ{NL}だったようだ…{BP}{END}|The fake Carla was a decoy{ELLIPSIS}{BP}{END}
+||ここに置いてあったアイドルは{NL}もう手に入れたぞ。{BP}{END}|I already got the idol.{BP}{END}
+||アイドルが置いてあるけど、{NL}５つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 5 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}４つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 4 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}３つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 3 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}２つのバリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}１つ消すことができるぞ。{BP}{END}|The idol is behind 2 of those{NL}seals{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift one.{BP}{END}
+||アイドルが置いてあるけど、{NL}バリアがはられているので{NL}アイドルが取れない…{BP}{f5}{ITEM:3c}を使えば、バリアを{NL}消すことができるぞ。{BP}{END}|The idol is behind one last{NL}seal{ELLIPSIS}{BP}{f5}An {ITEM:3c} would lift it.{BP}{END}
+||{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||ゴミの山だ。{NL}何か役に立つものが落ちている{NL}かもしれない…{BP}{END}|There may be something useful inthis pile of trash{ELLIPSIS}{BP}{END}
+||ゴミの山だ。{NL}役に立ちそうなものはもう落ちて{NL}いない…{BP}{END}|There's nothing useful here{NL}anymore{ELLIPSIS}{BP}{END}
+||ここにいたカーラはニセモノ{NL}だったようだ…{BP}{END}|The fake Carla was a decoy{ELLIPSIS}{BP}{END}
+||{ITEM:45}を使った！{NL}命の泉がわいてきたぞ！{BP}{END}|Used {ITEM:45}!{NL}Life spring filled!{BP}{END}
+||{ITEM:3c}を使った！{NL}１つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 1 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}２つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 2 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}３つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 3 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}４つ目のバリアが解けたぞ！{BP}{END}|Used {ITEM:3c}!{NL}Seal 4 lifted!{BP}{END}
+||{ITEM:3c}を使った！{NL}バリアが全部解けてアイドルを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:3c}!{NL}Last seal lifted, you can get{NL}the idol!{BP}{END}
+0x66b39c|8|エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{BP}{END}|A lift.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||ここの扉は頑丈な上に、しっかりと{NL}固定されてしまっている。{BP}{f5}ここから先へ進むのは{NL}無理のようだ…{BP}{END}|It's a solid door, closed shut.{NL}I can't go any further{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+0x67ba94|9|エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{BP}{END}|A lift.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||ここの扉は頑丈な上に、しっかりと{NL}固定されてしまっている。{BP}{f5}ここから先へ進むのは{NL}無理のようだ…{BP}{END}|It's a solid door, closed shut.{NL}I can't go any further{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x6917d0|8|エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{BP}{END}|A lift.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is put but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x6a7050|9|エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{BP}{END}|A lift.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||扉は開かない…{BP}{END}|It won't open{ELLIPSIS}{BP}{END}
+||ここの扉は頑丈な上に、しっかりと{NL}固定されてしまっている。{BP}{f5}ここから先へ進むのは{NL}無理のようだ…{BP}{END}|It's a solid door, closed shut.{NL}I can't go any further{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||だみー{BP}{END}|N/A{BP}{END}
+0x6bdc88|14|石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||ん？{NL}この壁何か変だぞ…{BP}{END}|An odd wall{ELLIPSIS}{BP}{END}
+||石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を手に入れた！{NL}パチンコの弾に使えるぞ。{BP}{END}|Found {ITEM:ff}!{NL}Use them with the slingshot.{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||『２２階へのエレベーターの使用を{NL}　許可します。』{BP}{f5}この石盤で１階から４階、{NL}１１階、２２階のエレベーターを{NL}使えるようになったようだ！{BP}{END}|"Card updated."{BP}{f5}Card can now take the lift to{NL}floors 1-4, 11, and 22!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used."{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+||『この石盤はここでは使用{NL}　できません。』{NL}{BP}{f5}この石盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use card here."{BP}{f5}It's the wrong card{ELLIPSIS}{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x6dc094|14|エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||何かが置いてあるけど、{NL}橋がじゃまで取れない…{BP}{END}|The bridge blocks the way{ELLIPSIS}{BP}{END}
+||{ITEM:ff}を、{NL}手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||石像が置いてある。{NL}今にも動き出しそうだ…{BP}{END}|The statue looks like it'll{NL}move{ELLIPSIS}{BP}{END}
+||壁に大きなドラがかけられている…{BP}{END}|A big gong{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||『３３階へのエレベーターの使用を{NL}　許可します。』{NL}{BP}{f5}この石盤で１階から４階、{NL}１１階、２２階、３３階の{NL}エレベーターを使えるように{NL}なったようだ！{BP}{END}|"Card updated."{BP}{f5}Card can now take the lift to{NL}floors 1-4, 11, 22, and 33!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used."{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||『この石盤はここでは使用{NL}　できません。』{NL}{BP}{f5}この石盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use card here."{BP}{f5}It's the wrong card{ELLIPSIS}{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x6f271c|16|{ITEM:ff}を手に入れた！{BP}{END}|Found {ITEM:ff}!{BP}{END}
+||アイテムが置いてあるけど、{NL}バリアがはられているので{NL}アイテムが取れない。{BP}{f5}{ITEM:44}を使えば、バリアが{NL}消えて、アイテムを取ることが{NL}できるようになるぞ。{BP}{f5}{ITEM:44}はモンスターが{NL}持っている。{BP}{END}|Item is sealed.{BP}{f5}Foes drop {ITEM:44}{COLOUR:BLUE}s{COLOUR:WHITE} to lift{NL}seals and take items.{BP}{END}
+||石盤や円盤をセットして{NL}使う機械のようだ…{BP}{END}|It's a machine to read discs andcards{ELLIPSIS}{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||『爆弾』{NL}持ち運び可能な高性能爆弾です。{NL}何かにぶつけたり、床に置いて{NL}３つ数えると爆発します。{BP}{END}|"Bomb"{NL}Portable and high-ordnance.{NL}Explodes on impact, or 3 seconds{NL}after being dropped.{BP}{END}
+||『強力爆薬』{NL}大変強力な威力をもつ{NL}高性能爆薬です。{BP}{f5}しかし、ほんの少しでも衝撃を{NL}与えると爆発します。{BP}{f5}取り扱いにはじゅうぶん注意して{NL}下さい。{BP}{END}|"TNT"{NL}Both extremely powerful and very{NL}sensitive to shocks. Handle with{NL}the utmost caution.{BP}{END}
+||『４４階へのエレベーターの使用を{NL}　許可します。』{BP}{f5}『今、道は開かれた。恐れを{NL}　知らぬ勇者に神のしゅくふく{NL}　あれ！』{BP}{f5}ん？{NL}今何か変なメッセージが{NL}出たような気がしたけど…{BP}{f5}この石盤で１階から４階、{NL}１１階、２２階、３３階、４４階の{NL}エレベーターを使えるように{NL}なったようだ！{BP}{END}|"Lift access to 44F granted.{NL}The Path is now open.{NL}May God bless the valiant Hero!"{BP}{f5}What an odd message{ELLIPSIS}{BP}{f5}Card can now take the lift to{NL}floors 1-4, 11, 22, 33, and 44!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used."{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||『この石盤で４４階の{NL}　エレベーターの罠を解除する{NL}　ことができます。』{BP}{f5}『３３階と４４階へのエレベーター{NL}　の使用を許可します。』{BP}{f5}この石盤で３３階と４４階の{NL}エレベーターを使えるように{NL}なったようだ！{BP}{END}|"Trap on lift at 44F disabled.{NL}Lifts to 33F and 44F activated."{BP}{f5}Card can now take the lift to{NL}floors 33, and 44!{BP}{END}
+||『この石盤のここでの許可はすでに{NL}　おりています。』{BP}{f5}この石盤はもうここで使っていたん{NL}だっけ。{BP}{END}|"Card already used."{BP}{f5}I already used the card here{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||{ITEM:44}を使った！{NL}バリアが解けてアイテムを{NL}取れるようになったぞ！{BP}{END}|Used {ITEM:44}!{NL}Seal lifted, you can get the{NL}item!{BP}{END}
+||『この円盤はここでは使用{NL}　できません。』{BP}{f5}この円盤はここでは使えない{NL}ようだ…{BP}{END}|"Cannot use disc here."{BP}{f5}It's the wrong disc{ELLIPSIS}{BP}{END}
+||『この円盤はすでに使用されて{NL}　います。』{BP}{f5}この円盤はもう使うひつようは{NL}ないようだ。{BP}{END}|"Disc already used."{BP}{f5}I don't need to use this disc{NL}again.{BP}{END}
+0x70c320|13|『フフフフ…おろかな侵入者め、{NL}　地獄に落ちるがいい！』{BP}{END}|"Hahaha{ELLIPSIS} You are doomed,{NL}intruder!"{BP}{END}
+||『解除コード確認。　罠を解除{NL}　します。』{BP}{END}|"Code accepted.{NL}Trap disabled."{BP}{END}
+||石盤をセットしよう。{BP}{END}|It needs a card.{BP}{END}
+||エレベーターだ。{NL}扉は開かない…{BP}{END}|The lift is closed{ELLIPSIS}{BP}{END}
+||扉には鍵がかかっている…{BP}{END}|It's locked{ELLIPSIS}{BP}{END}
+||塗り固められた壁だ。{NL}ふつうの爆弾では壊せそうも{NL}ない…{BP}{END}|A hardened wall. Normal bombs{NL}won't do{ELLIPSIS}{BP}{END}
+||我らが神、グディアをおびやかす{NL}悪しき水晶をおさめし箱、{NL}クリスタルボックスをここに{NL}えいきゅうにふういんする。{BP}{END}|We forever seal the evil gem{NL}that defies Lord Gudia in this{NL}crystal box.{BP}{END}
+||クリスタルボックスには何人も手を{NL}触れてはならない。　手を触れし者{NL}には恐るべきわざわいがもたらされ{NL}るであろう。{BP}{END}|It is anathema to open the box!{NL}Hell to those who dare!{BP}{END}
+||ここにあった箱は消えてしまった{NL}ようだ…{NL}時間がないぞ、先を急ごう！{BP}{END}|The box is gone{ELLIPSIS} Let's hurry!{BP}{END}
+||ん？{NL}この壁何か変だぞ…{BP}{END}|An odd wall{ELLIPSIS}{BP}{END}
+||石盤をセットした。{NL}エレベーターは動かない…{BP}{END}|Card is in but the lift won't{NL}move{ELLIPSIS}{BP}{END}
+||石盤をセットした。{BP}{END}|Card is in.{BP}{END}
+||{COLOUR:WHITE}　　　　　エドルさん！{END}|{COLOUR:WHITE}Mr. Edol!{END}
+0x71c1e8|36|ここは夢で見たのと同じ場所だ！{NL}もうすぐ日食が始まってしまう。{NL}なんとかしなくては！{BP}{END}|I saw this place in a dream!{NL}The eclipse is about to begin, Ihave to act fast!{BP}{END}
+||しまった、日食が…！{BP}{END}|The eclipse{ELLIPSIS}!{BP}{END}
+||{COLOUR:WHITE}　　　　　エドルさん！{END}|{COLOUR:WHITE}Mr. Edol!{END}
+||{f5}　　　　　　大丈夫だ{END}|{f5}She's OK.{END}
+||{f5}　　　　　ありがとう…{END}|{f5}Thank you{ELLIPSIS}{END}
+||{f5}　　　　　…ありがとう{END}|{f5}Thank you{ELLIPSIS}{END}
+||{f5}　　　ボウヤ、クイントは？{END}|{f5}Where's Quint?{END}
+||{f5}　　クイントさん、ひどい怪我{NL}　　しちゃって…{END}|{f5}He was badly hurt{ELLIPSIS}{END}
+||{f5}　　　また、世話の焼ける…{END}|{f5}He's always a nuisance{ELLIPSIS}{END}
+||{f5}　　　　　　まったく{END}|{f5}Hey{ELLIPSIS}{END}
+||{f5}　　　　世話の焼けるのは{NL}　　　　どっちだよ！{END}|{f5}Who are you calling that?!{END}
+||{f5}　　　　クイントさん！！{END}|{f5}Mr. Quint!{END}
+||{f5}　　　　よぉ、ボーズ！{NL}　　　　まだまだ甘いな{END}|{f5}You're still soft, kid.{END}
+||{f5}　　　　よぉ、エドル！{NL}　　　　元気だったか？{END}|{f5}How's it going, Edol?{END}
+||{f5}　　お前の方こそどうなんだ？{END}|{f5}Not bad, and you?{END}
+||{f5}　　　　　俺？　俺様は{NL}　　　　　見ての通りよ{END}|{f5}As you can see{ELLIPSIS}{END}
+||{f5}　　　　…終わったんだね{END}|{f5}It's over, right?{END}
+||{f5}　　　　あぁ、終わりだ…{END}|{f5}It is{ELLIPSIS}{END}
+||{f5}　どうやら、まだ終わってねぇ{NL}　らしいぜ！{END}|{f5}Not just yet!{END}
+||{f5}　　早くせなかに乗るんだ！{END}|{f5}Hop on my back, quick!{END}
+||{f5}　　　ここでいいのかい？{END}|{f5}Is this the place?{END}
+||{f5}　　　　　ありがとう{END}|{f5}Thank you{ELLIPSIS}{END}
+||{f5}　　　本当に、来ないの？{END}|{f5}You're not coming?{END}
+||{f5}　　　うん、おばあちゃんが{NL}　　　待ってるし…{END}|{f5}My granny is waiting{ELLIPSIS}{END}
+||{f5}　　　じゃ、仕方ねぇな…{END}|{f5}I guess that's it then{ELLIPSIS}{END}
+||{f5}　　また遊びに飛んでくるよ{END}|{f5}We'll come visit soon!{END}
+||{f5}　　おぉ！　たまにはいい事{NL}　　言うな、お前{END}|{f5}So you *can* be nice sometimes!{END}
+||{f5}　　　たまにじゃなくて、{NL}　　　いつもだろ？{END}|{f5}You mean *always*, right?{END}
+||{f5}　　　よく言うぜ、{NL}　　　こないだだって{END}|{f5}You've got some nerve{ELLIPSIS}{END}
+||{f5}　　　　　そこまでっ！{END}|{f5}Enough!{END}
+||{f5}　　　２人ともケンカしちゃ{NL}　　　ダメだよ{END}|{f5}Quit bickering, you two.{END}
+||{f5}　　　うるせぇや、ボーズ{END}|{f5}Shut it, kid.{END}
+||{f5}　　　気をつけるよ、ボウヤ{END}|{f5}Take care, boy.{END}
+||{f5}　　　　僕はボーズでも{NL}　　　　ボウヤでもない！{END}|{f5}It's not "kid" or "boy"!{END}
+||{f5}　　　　　僕の名前は{END}|{f5}My name is{ELLIPSIS}{END}
+||{COLOUR:WHITE}{END}|{COLOUR:WHITE}{END}
+0x71d280|7|{COLOUR:WHITE}　　　　　グディア様{END}|{COLOUR:WHITE}Lord Gudia.{END}
+||{f5}　　　　　　…何だ{END}|{f5}What{ELLIPSIS}?{END}
+||{f5}　ついにケルファー族の女を{NL}　見つけ出しました{END}|{f5}We found the Kelferi girl.{END}
+||{f5}　　すぐ捕らえに向かわせろ{END}|{f5}Capture her at once.{END}
+||{f5}　　　　はい、グディア様{END}|{f5}Yes, Lord Gudia!{END}
+||{f5}　　これで全てがそろった…{END}|{f5}All is in place now{ELLIPSIS}{END}
+||{f5}　我らグディア族が、この世界を{NL}　支配するのだ！{END}|{f5}Gudians will rule the world!{END}
