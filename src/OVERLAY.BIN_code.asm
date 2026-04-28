@@ -34,12 +34,12 @@ addiu	v0,@char_width
 sb		s3,0xf(s0)
 sb		r0,0x7(s0)
 sb		r0,0xe(s0)
-j		0x80100af0
+j		0x80100af4
 sb		s3,0x17(s0)
 sb		s3,0x16(s0)
 
-; 0x80100af0
-.org 0x1c4a00
+; 0x80100af4
+.org 0x1c4a04
 li		s3,@char_width
 j		0x800f916c
 sb		s3,0x6(s0)
@@ -100,7 +100,7 @@ j		0x800f7f00
 sb		v1,0x8bc(s1)
 
 ; In-game dialogues
-; 0x0x800f7e5c
+; 0x800f7e5c
 .org 0x1bbd6c
 sb		a0,0x8be(s1)
 j		0x80100acc
@@ -113,26 +113,15 @@ li		a0,@chars_per_line
 j		0x800f7e68
 sb		a0,0x8bc(s1)
 
-; Items menu
-; 0x800eb620
-.org 0x1af530
-j		0x80100ad8
-
-; 0x80100ad8
-.org 0x1c49e8
-li		v1,@chars_per_line
-j		0x800eb628
-sw		v1,0x10(sp)
-
 ; Instructions
 ; 0x801d56b8
 .org 0x4ad6b8
 sw		v0,0x18(sp)
-j		0x80100ae4
+j		0x80100ae8
 sw		v0,0x20(sp)
 
-; 0x80100ae4
-.org 0x1c49f4
+; 0x80100ae8
+.org 0x1c49f8
 li		v0,@chars_per_line
 j		0x801d56c4
 sw		v0,0x10(sp)
